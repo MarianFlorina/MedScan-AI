@@ -1,0 +1,258 @@
+{
+  "n_safe_cases": 40,
+  "false_positives": 0,
+  "false_positive_rate": 0.0,
+  "cases": [
+    {
+      "text": "Tab Amoxicillin 500mg three times daily for 7 days for sinusitis",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Paracetamol 500mg three times daily for 3 days for fever",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Metformin 500mg twice daily with meals for Type 2 Diabetes",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Amlodipine 5mg once daily for Hypertension",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Atorvastatin 20mg at bedtime for Hyperlipidemia",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Levothyroxine 75mcg once daily in the morning for Hypothyroidism",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Pantoprazole 40mg once daily before breakfast for GERD",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Cetirizine 10mg once daily at bedtime for Allergic Rhinitis",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Losartan 50mg once daily for Hypertension",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Cap Omeprazole 20mg once daily for 14 days for Gastritis",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Azithromycin 500mg once daily for 3 days for Pharyngitis",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Montelukast 10mg once daily at bedtime for Asthma",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Sertraline 50mg once daily for Depression",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Ramipril 5mg once daily for Hypertension",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Doxycycline 100mg twice daily for 7 days for Acne",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Metoprolol 50mg twice daily for Hypertension",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Ciprofloxacin 500mg twice daily for 7 days for Urinary Tract Infection",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Ibuprofen 400mg three times daily after meals for 3 days for back pain",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Syp Salbutamol 2mg three times daily for 5 days for cough",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Prednisolone 20mg once daily for 5 days for Asthma exacerbation",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Metformin 500mg twice daily and Tab Amlodipine 5mg once daily",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Atorvastatin 20mg at bedtime and Tab Amlodipine 5mg once daily",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Losartan 50mg once daily and Tab Metformin 500mg twice daily",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Pantoprazole 40mg once daily and Tab Paracetamol 500mg as needed",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Cetirizine 10mg at bedtime and Tab Montelukast 10mg at bedtime",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Amoxicillin 500mg three times daily for 5 days for tonsillitis",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Paracetamol 500mg as needed for headache",
+      "false_positive": false,
+      "serious": [],
+      "advisory": [
+        "MISSING_SCHEDULE"
+      ]
+    },
+    {
+      "text": "Tab Cetirizine 10mg once daily for Urticaria",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Levothyroxine 100mcg once daily for Hypothyroidism",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Amlodipine 5mg once daily for Hypertension",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Metformin 850mg twice daily for Type 2 Diabetes",
+      "false_positive": false,
+      "serious": [],
+      "advisory": [
+        "DOSAGE_NEAR_LIMIT"
+      ]
+    },
+    {
+      "text": "Tab Azithromycin 250mg once daily for 5 days for bronchitis",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Cap Omeprazole 20mg once daily and Tab Domperidone 10mg before meals for dyspepsia",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Tab Ondansetron 4mg as needed for nausea",
+      "false_positive": false,
+      "serious": [],
+      "advisory": [
+        "MISSING_SCHEDULE"
+      ]
+    },
+    {
+      "text": "Tab Telmisartan 40mg once daily for Hypertension",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Patient is taking Atorvastatin 20mg at bedtime and tolerating it well",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Patient will take one pill of Amlodipine 5mg once daily for Hypertension",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    },
+    {
+      "text": "Also taking Paracetamol 500mg as needed for pain. Heart rate normal.",
+      "false_positive": false,
+      "serious": [],
+      "advisory": [
+        "MISSING_SCHEDULE"
+      ]
+    },
+    {
+      "text": "Patient prescribed Lisinopril 20mg daily, Metformin 500mg for Type 2 Diabetes, Atorvastatin 40mg for cholesterol, and Omeprazole 20mg for GERD.",
+      "false_positive": false,
+      "serious": [],
+      "advisory": [
+        "DOSAGE_DAILY_HIGH",
+        "DOSAGE_DAILY_HIGH"
+      ]
+    },
+    {
+      "text": "Patient diagnosed with hypertension. Prescribed Amlodipine 5mg once daily. Blood pressure stable.",
+      "false_positive": false,
+      "serious": [],
+      "advisory": []
+    }
+  ]
+}

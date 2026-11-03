@@ -1,0 +1,4452 @@
+[
+  {
+    "text": "Tab Amoxicillin 500mg twice daily for 7 days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Cap Omeprazole 20mg once daily before breakfast",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 35,
+        "end": 48,
+        "label": "FREQUENCY"
+      }
+    ]
+  },
+  {
+    "text": "Inj Ceftriaxone 1g IV once daily",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "ROUTE"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "FREQUENCY"
+      }
+    ]
+  },
+  {
+    "text": "Syrup Ambroxol 15mg/5ml 10ml three times daily",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "FORM"
+      },
+      {
+        "start": 6,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 32,
+        "end": 50,
+        "label": "FREQUENCY"
+      }
+    ]
+  },
+  {
+    "text": "Tab Metformin 500mg with meals twice daily for Type 2 Diabetes",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 32,
+        "end": 46,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 50,
+        "end": 63,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Amlodipine 5mg once daily for Hypertension",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Atorvastatin 20mg at bedtime for Hyperlipidemia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 54,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Lisinopril 10mg once daily for Hypertension and Diabetic Nephropathy",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "CONDITION"
+      },
+      {
+        "start": 54,
+        "end": 73,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Cream Betamethasone 0.05% apply to affected area twice daily for 2 weeks",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "FORM"
+      },
+      {
+        "start": 7,
+        "end": 22,
+        "label": "DRUG"
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 29,
+        "end": 51,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 52,
+        "end": 66,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 70,
+        "end": 78,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Eye drops Timolol 0.5% one drop in each eye twice daily for Glaucoma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "FORM"
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "label": "DRUG"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 24,
+        "end": 45,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 60,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 64,
+        "end": 72,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Patient prescribed Warfarin 5mg daily for Atrial Fibrillation. Monitor INR every 2 weeks. History of DVT.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "label": "DRUG"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 48,
+        "end": 68,
+        "label": "CONDITION"
+      },
+      {
+        "start": 75,
+        "end": 90,
+        "label": "PROCEDURE"
+      },
+      {
+        "start": 97,
+        "end": 100,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Sertraline 50mg once daily for Depression and Anxiety. Increase to 100mg after 2 weeks if tolerated.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 38,
+        "end": 48,
+        "label": "CONDITION"
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "label": "CONDITION"
+      },
+      {
+        "start": 71,
+        "end": 76,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 83,
+        "end": 91,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Insulin Glargine 20 units subcut at bedtime for Type 1 Diabetes. Titrate by 2 units every 3 days.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 22,
+        "label": "DRUG"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "ROUTE"
+      },
+      {
+        "start": 46,
+        "end": 56,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 60,
+        "end": 76,
+        "label": "CONDITION"
+      },
+      {
+        "start": 82,
+        "end": 103,
+        "label": "FREQUENCY"
+      }
+    ]
+  },
+  {
+    "text": "Tab Levothyroxine 75mcg empty stomach 30 min before breakfast for Hypothyroidism",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 18,
+        "label": "DRUG"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 26,
+        "end": 59,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 63,
+        "end": 79,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Clopidogrel 75mg once daily after MI. Continue for 12 months.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "label": "CONDITION"
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Cap Pregabalin 75mg twice daily for Neuropathic Pain. May increase to 150mg after 1 week.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 56,
+        "label": "CONDITION"
+      },
+      {
+        "start": 66,
+        "end": 72,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 79,
+        "end": 87,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Atenolol 50mg once daily for Hypertension and Angina. Avoid abrupt discontinuation.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "CONDITION"
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Fluconazole 150mg once weekly for 4 weeks for Tinea Pedis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 40,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "DURATION"
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Susp Amoxicillin 250mg/5ml 5ml three times daily for 10 days for Otitis Media in child",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "FORM"
+      },
+      {
+        "start": 5,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 28,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 35,
+        "end": 55,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "label": "DURATION"
+      },
+      {
+        "start": 71,
+        "end": 84,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Ciprofloxacin 400mg IV every 12 hours for Urinary Tract Infection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 18,
+        "label": "DRUG"
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "label": "ROUTE"
+      },
+      {
+        "start": 30,
+        "end": 48,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 52,
+        "end": 71,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Ondansetron 4mg sublingual every 6 hours as needed for Nausea and Vomiting",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "ROUTE"
+      },
+      {
+        "start": 35,
+        "end": 53,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 57,
+        "end": 78,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Pantoprazole 40mg before meals for GERD and Gastric Ulcer",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 37,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "label": "CONDITION"
+      },
+      {
+        "start": 50,
+        "end": 63,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Gel Diclofenac 1% apply topically to knee three times daily for Osteoarthritis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 18,
+        "end": 44,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 45,
+        "end": 59,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 63,
+        "end": 78,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Doxycycline 100mg twice daily for 7 days for Community Acquired Pneumonia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "DURATION"
+      },
+      {
+        "start": 52,
+        "end": 80,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Metoprolol Succinate 50mg ER once daily for Heart Failure and Arrhythmia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 25,
+        "label": "DRUG"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 33,
+        "end": 48,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 52,
+        "end": 65,
+        "label": "CONDITION"
+      },
+      {
+        "start": 70,
+        "end": 80,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Hydrochlorothiazide 25mg once daily for Edema secondary to Congestive Heart Failure",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 25,
+        "label": "DRUG"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 48,
+        "end": 54,
+        "label": "CONDITION"
+      },
+      {
+        "start": 67,
+        "end": 88,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Rosuvastatin 10mg at bedtime for Hypercholesterolemia. Repeat lipid profile in 6 weeks.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 57,
+        "label": "CONDITION"
+      },
+      {
+        "start": 64,
+        "end": 82,
+        "label": "PROCEDURE"
+      },
+      {
+        "start": 86,
+        "end": 94,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Dexamethasone 8mg IV stat then 4mg every 6 hours for 48 hours for Severe Asthma Exacerbation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "label": "ROUTE"
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 36,
+        "end": 54,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 58,
+        "end": 68,
+        "label": "DURATION"
+      },
+      {
+        "start": 72,
+        "end": 97,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Escitalopram 10mg once daily morning for Generalized Anxiety Disorder",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 72,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Cap Tamsulosin 0.4mg once daily at bedtime for Benign Prostatic Hyperplasia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 76,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Gabapentin 300mg three times daily for Post-Herpetic Neuralgia. Increase gradually.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 65,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Methylprednisolone 125mg IV every 6 hours for Acute Exacerbation of COPD",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 23,
+        "label": "DRUG"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "label": "ROUTE"
+      },
+      {
+        "start": 35,
+        "end": 51,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 55,
+        "end": 80,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Losartan 50mg once daily for Hypertension with Diabetic Nephropathy",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 11,
+        "label": "DRUG"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 18,
+        "end": 29,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "CONDITION"
+      },
+      {
+        "start": 50,
+        "end": 69,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Azithromycin 500mg day 1 then 250mg daily for 4 days for Pharyngitis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 38,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 45,
+        "end": 55,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 59,
+        "end": 69,
+        "label": "DURATION"
+      },
+      {
+        "start": 73,
+        "end": 83,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Susp Paracetamol 120mg/5ml 5ml every 4 hours as needed for Fever in child",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "FORM"
+      },
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 26,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 33,
+        "end": 53,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Allopurinol 100mg once daily for Gout. Monitor Uric Acid levels.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "label": "CONDITION"
+      },
+      {
+        "start": 50,
+        "end": 65,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Furosemide 40mg twice daily for Peripheral Edema. Monitor potassium.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 57,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Dolutegravir 50mg once daily for HIV-1 Infection. Take at same time each day.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 55,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Carbamazepine 200mg twice daily for Epilepsy. Monitor drug levels and CBC.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 18,
+        "label": "DRUG"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 26,
+        "end": 40,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "label": "CONDITION"
+      },
+      {
+        "start": 59,
+        "end": 78,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Spironolactone 25mg once daily for Ascites secondary to Liver Cirrhosis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 19,
+        "label": "DRUG"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "CONDITION"
+      },
+      {
+        "start": 60,
+        "end": 75,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Vancomycin 1g IV every 12 hours for MRSA Bacteremia. Monitor trough levels.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "ROUTE"
+      },
+      {
+        "start": 21,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 57,
+        "label": "CONDITION"
+      },
+      {
+        "start": 64,
+        "end": 80,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Phenytoin 100mg three times daily for Seizure Disorder. Maintain therapeutic levels.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 40,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 44,
+        "end": 61,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Propranolol 40mg twice daily for Portal Hypertension and Essential Tremor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 37,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 41,
+        "end": 58,
+        "label": "CONDITION"
+      },
+      {
+        "start": 63,
+        "end": 79,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Isotretinoin 20mg twice daily with food for Severe Nodulocystic Acne",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 38,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 42,
+        "end": 67,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Lithium Carbonate 300mg twice daily for Bipolar Disorder. Monitor lithium levels every 3 months.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 22,
+        "label": "DRUG"
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 30,
+        "end": 44,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 48,
+        "end": 62,
+        "label": "CONDITION"
+      },
+      {
+        "start": 69,
+        "end": 92,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Inj Ketorolac 30mg IM every 6 hours for 5 days for Post-operative Pain",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "ROUTE"
+      },
+      {
+        "start": 23,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "label": "DURATION"
+      },
+      {
+        "start": 52,
+        "end": 70,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Ramipril 5mg once daily for Cardioprotection post Myocardial Infarction",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 11,
+        "label": "DRUG"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 18,
+        "end": 29,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 33,
+        "end": 48,
+        "label": "CONDITION"
+      },
+      {
+        "start": 53,
+        "end": 72,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Cap Tetracycline 500mg four times daily for 14 days for Chlamydia Trachomatis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 54,
+        "label": "DURATION"
+      },
+      {
+        "start": 58,
+        "end": 77,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Finasteride 5mg once daily for Benign Prostatic Hyperplasia. Continue for 6 months.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 37,
+        "end": 67,
+        "label": "CONDITION"
+      },
+      {
+        "start": 75,
+        "end": 87,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Susp Cetirizine 5mg once daily at bedtime for Allergic Rhinitis in child",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "FORM"
+      },
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 21,
+        "end": 41,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 45,
+        "end": 61,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Prednisone 40mg once daily for 5 days then taper for Acute Gout Flare",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "DURATION"
+      },
+      {
+        "start": 48,
+        "end": 66,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Enoxaparin 40mg subcut once daily for DVT Prophylaxis post Hip Replacement",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "label": "ROUTE"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 58,
+        "label": "CONDITION"
+      },
+      {
+        "start": 62,
+        "end": 77,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Morphine Sulfate 15mg oral every 4 hours as needed for Severe Cancer Pain",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 21,
+        "label": "DRUG"
+      },
+      {
+        "start": 22,
+        "end": 27,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "ROUTE"
+      },
+      {
+        "start": 33,
+        "end": 53,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 57,
+        "end": 74,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Clozapine 100mg twice daily for Treatment-Resistant Schizophrenia. Monitor ANC weekly.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 21,
+        "end": 35,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 39,
+        "end": 68,
+        "label": "CONDITION"
+      },
+      {
+        "start": 75,
+        "end": 88,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Verapamil 120mg three times daily for Angina Pectoris and Arrhythmia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 61,
+        "label": "CONDITION"
+      },
+      {
+        "start": 66,
+        "end": 76,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Cream Hydrocortisone 1% apply to rash twice daily for 7 days for Eczema",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "FORM"
+      },
+      {
+        "start": 7,
+        "end": 22,
+        "label": "DRUG"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 26,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 57,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "label": "DURATION"
+      },
+      {
+        "start": 71,
+        "end": 76,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Tramadol 100mg IV every 8 hours for Moderate to Severe Post-surgical Pain",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 11,
+        "label": "DRUG"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "ROUTE"
+      },
+      {
+        "start": 21,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 78,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Sildenafil 50mg one hour before sexual activity for Erectile Dysfunction",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 47,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 51,
+        "end": 71,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Doxazosin 4mg at bedtime for Benign Prostatic Hyperplasia and Hypertension",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 32,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 36,
+        "end": 66,
+        "label": "CONDITION"
+      },
+      {
+        "start": 71,
+        "end": 83,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Naproxen 500mg twice daily with food for Rheumatoid Arthritis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 35,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 39,
+        "end": 58,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Acetazolamide 250mg twice daily for Altitude Sickness Prophylaxis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 68,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Lidocaine 1% 10ml local infiltration for Regional Anesthesia before Procedure",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 21,
+        "end": 41,
+        "label": "ROUTE"
+      },
+      {
+        "start": 45,
+        "end": 65,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Mycophenolate 500mg twice daily for Lupus Nephritis. Monitor CBC and LFTs.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 18,
+        "label": "DRUG"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 26,
+        "end": 40,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 44,
+        "end": 57,
+        "label": "CONDITION"
+      },
+      {
+        "start": 64,
+        "end": 80,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Colchicine 0.5mg once daily for Gout Prophylaxis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 37,
+        "end": 53,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Tobramycin 80mg IV every 8 hours for Gram Negative Sepsis. Monitor drug levels.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "label": "ROUTE"
+      },
+      {
+        "start": 24,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 64,
+        "label": "CONDITION"
+      },
+      {
+        "start": 71,
+        "end": 87,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Sumatriptan 50mg at onset of Migraine. May repeat after 2 hours. Max 200mg/day.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 37,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "label": "CONDITION"
+      },
+      {
+        "start": 55,
+        "end": 74,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 80,
+        "end": 91,
+        "label": "DOSAGE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Metronidazole 400mg three times daily for 7 days for H. pylori Infection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 26,
+        "end": 46,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "label": "DURATION"
+      },
+      {
+        "start": 60,
+        "end": 78,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Sulpiride 50mg twice daily for Functional Dyspepsia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 38,
+        "end": 56,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Erythromycin 250mg four times daily for 10 days for Whooping Cough",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 44,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "label": "DURATION"
+      },
+      {
+        "start": 60,
+        "end": 73,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Ondansetron 8mg IV pre-chemotherapy for Anticipatory Nausea",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "ROUTE"
+      },
+      {
+        "start": 26,
+        "end": 43,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 47,
+        "end": 67,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Sulfasalazine 500mg twice daily for Ulcerative Colitis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 60,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Terbinafine 250mg once daily for 6 weeks for Onychomycosis of toenail",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "DURATION"
+      },
+      {
+        "start": 49,
+        "end": 70,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Clonazepam 0.5mg at bedtime for Nocturnal Seizures",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 38,
+        "end": 53,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Susp Salbutamol 2mg/5ml 5ml every 4-6 hours as needed for Bronchial Asthma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "FORM"
+      },
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 32,
+        "end": 52,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 56,
+        "end": 74,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Flucloxacillin 500mg four times daily for 14 days for Cellulitis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 45,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 49,
+        "end": 57,
+        "label": "DURATION"
+      },
+      {
+        "start": 61,
+        "end": 70,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Diclofenac 75mg IM stat for Acute Renal Colic",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "label": "ROUTE"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 32,
+        "end": 47,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Venlafaxine 75mg once daily for Major Depressive Disorder",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 38,
+        "end": 61,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Ceftriaxone 2g IV once daily plus Tab Azithromycin 500mg for Community Acquired Pneumonia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "ROUTE"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "label": "FORM"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "DRUG"
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 67,
+        "end": 95,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Amitriptyline 25mg at bedtime for Chronic Pain Syndrome and Insomnia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 60,
+        "label": "CONDITION"
+      },
+      {
+        "start": 65,
+        "end": 73,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Irbesartan 300mg once daily for Diabetic Nephropathy with Proteinuria",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 38,
+        "end": 57,
+        "label": "CONDITION"
+      },
+      {
+        "start": 62,
+        "end": 72,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Susp Amoxicillin-Clavulanate 457mg/5ml 6.25ml three times daily for Sinusitis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "FORM"
+      },
+      {
+        "start": 5,
+        "end": 27,
+        "label": "DRUG"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 49,
+        "end": 69,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 73,
+        "end": 82,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Ertapenem 1g IV once daily for Intra-abdominal Infection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "label": "ROUTE"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 35,
+        "end": 58,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Methotrexate 15mg once weekly for Rheumatoid Arthritis. Monitor CBC and LFTs monthly.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 41,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 45,
+        "end": 64,
+        "label": "CONDITION"
+      },
+      {
+        "start": 71,
+        "end": 95,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Cyclobenzaprine 10mg three times daily for 2 weeks for Muscle Spasm",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 19,
+        "label": "DRUG"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 27,
+        "end": 47,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 51,
+        "end": 59,
+        "label": "DURATION"
+      },
+      {
+        "start": 63,
+        "end": 75,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Tolterodine 2mg twice daily for Overactive Bladder Syndrome",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 62,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Risedronate 35mg once weekly on empty stomach for Osteoporosis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 45,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Rivaroxaban 20mg once daily with dinner for Non-Valvular Atrial Fibrillation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 40,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 44,
+        "end": 77,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Clonidine 0.1mg twice daily for ADHD in child. Monitor blood pressure.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "label": "CONDITION"
+      },
+      {
+        "start": 49,
+        "end": 66,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Tab Baclofen 10mg three times daily for Spasticity secondary to Spinal Cord Injury",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 11,
+        "label": "DRUG"
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 19,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "label": "CONDITION"
+      },
+      {
+        "start": 64,
+        "end": 84,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Susp Domperidone 1mg/kg three times daily before meals for GERD in infant",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "FORM"
+      },
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 46,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 47,
+        "end": 60,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 64,
+        "end": 68,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Diazepam 5mg IV slow push for Status Epilepticus in adult",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "label": "ROUTE"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 36,
+        "end": 55,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Fluoxetine 20mg once daily morning for Bulimia Nervosa and OCD",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 57,
+        "label": "CONDITION"
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Amiloride 5mg plus Hydrochlorothiazide 50mg once daily for Hypertension with Hypokalemia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 44,
+        "label": "DRUG"
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 66,
+        "end": 78,
+        "label": "CONDITION"
+      },
+      {
+        "start": 83,
+        "end": 95,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Cap Fluconazole 200mg on day 1 then 100mg daily for 2 weeks for Vaginal Candidiasis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 38,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 45,
+        "end": 55,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "label": "DURATION"
+      },
+      {
+        "start": 71,
+        "end": 90,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Pioglitazone 15mg once daily for Type 2 Diabetes with Insulin Resistance",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 56,
+        "label": "CONDITION"
+      },
+      {
+        "start": 61,
+        "end": 80,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Morphine PCA 1mg demand dose lockout 6 minutes for Palliative Care Pain",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 11,
+        "label": "DRUG"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 28,
+        "end": 47,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 51,
+        "end": 64,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Sitagliptin 100mg once daily for Type 2 Diabetes Mellitus inadequately controlled on Metformin",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 38,
+        "end": 54,
+        "label": "CONDITION"
+      },
+      {
+        "start": 90,
+        "end": 99,
+        "label": "DRUG"
+      }
+    ]
+  },
+  {
+    "text": "Tab Pramipexole 0.125mg three times daily for Parkinson Disease. Titrate slowly.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 26,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 27,
+        "end": 47,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 51,
+        "end": 66,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Bezafibrate 200mg three times daily for Hypertriglyceridemia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 43,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 47,
+        "end": 65,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Erythropoietin 4000 units subcut three times a week for Anemia of Chronic Kidney Disease",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 29,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "ROUTE"
+      },
+      {
+        "start": 38,
+        "end": 55,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 59,
+        "end": 87,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Fluticasone-Salmeterol 250/50 one puff twice daily for Persistent Asthma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 25,
+        "label": "DRUG"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 50,
+        "end": 57,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 61,
+        "end": 78,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Deferasirox 500mg once daily with water for Transfusion Iron Overload in Thalassemia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 41,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 45,
+        "end": 65,
+        "label": "CONDITION"
+      },
+      {
+        "start": 69,
+        "end": 81,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Rituximab 375mg/m2 IV once weekly for 4 weeks for Non-Hodgkin Lymphoma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "label": "ROUTE"
+      },
+      {
+        "start": 28,
+        "end": 44,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "label": "DURATION"
+      },
+      {
+        "start": 60,
+        "end": 78,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Chloroquine 500mg once weekly for 8 weeks for Malaria Prophylaxis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 38,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 42,
+        "end": 50,
+        "label": "DURATION"
+      },
+      {
+        "start": 54,
+        "end": 72,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Cetirizine 10mg once daily at bedtime for Chronic Urticaria",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 62,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Tinzaparin 4500 units subcut once daily for Deep Vein Thrombosis in Pregnancy",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 25,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "label": "ROUTE"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 49,
+        "end": 68,
+        "label": "CONDITION"
+      },
+      {
+        "start": 72,
+        "end": 82,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Simvastatin 40mg at bedtime for Familial Hypercholesterolemia",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 38,
+        "end": 60,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Mycophenolate Mofetil 1g twice daily for Autoimmune Hepatitis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 25,
+        "label": "DRUG"
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 28,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 64,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Benznidazole 100mg three times daily for 60 days for Chagas Disease",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 44,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "label": "DURATION"
+      },
+      {
+        "start": 60,
+        "end": 72,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Nifedipine 30mg ER once daily for Raynaud Phenomenon",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 37,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 41,
+        "end": 57,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Bupropion XL 150mg once daily morning for Smoking Cessation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 42,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 46,
+        "end": 63,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Adrenaline 0.5mg IM stat for Anaphylaxis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "label": "DRUG"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "ROUTE"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Apixaban 5mg twice daily for Stroke Prevention in Atrial Fibrillation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 37,
+        "end": 53,
+        "label": "CONDITION"
+      },
+      {
+        "start": 57,
+        "end": 77,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Ropinirole 0.25mg three times daily for Restless Leg Syndrome. Titrate as needed.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 44,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 48,
+        "end": 68,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Danazol 200mg twice daily for Endometriosis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 10,
+        "label": "DRUG"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 18,
+        "end": 32,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Linagliptin 5mg once daily for Type 2 Diabetes. No renal dose adjustment needed.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 37,
+        "end": 53,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Valproic Acid 500mg twice daily for Bipolar Mania. Monitor LFTs and ammonia.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "CONDITION"
+      },
+      {
+        "start": 62,
+        "end": 81,
+        "label": "PROCEDURE"
+      }
+    ]
+  },
+  {
+    "text": "Inj Tocilizumab 162mg subcut every 2 weeks for Rheumatoid Arthritis refractory to DMARDs",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "label": "DRUG"
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "label": "ROUTE"
+      },
+      {
+        "start": 34,
+        "end": 47,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 51,
+        "end": 70,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Empagliflozin 25mg once daily for Type 2 Diabetes with Heart Failure",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 56,
+        "label": "CONDITION"
+      },
+      {
+        "start": 61,
+        "end": 74,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Midodrine 5mg three times daily for Neurogenic Orthostatic Hypotension",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 19,
+        "end": 39,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 43,
+        "end": 72,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Hyaluronic Acid 2ml intra-articular for Knee Osteoarthritis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 18,
+        "label": "DRUG"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 38,
+        "label": "ROUTE"
+      },
+      {
+        "start": 42,
+        "end": 60,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Felodipine 5mg once daily for Hypertension in Elderly",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "label": "DRUG"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Dabigatran 150mg twice daily for Stroke Prevention in Non-Valvular AF",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 42,
+        "end": 58,
+        "label": "CONDITION"
+      },
+      {
+        "start": 62,
+        "end": 77,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Teneligliptin 20mg once daily for Post-prandial Hyperglycemia in DM2",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 17,
+        "label": "DRUG"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 40,
+        "end": 64,
+        "label": "CONDITION"
+      },
+      {
+        "start": 68,
+        "end": 71,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Inj Atosiban 6.75mg bolus then 18mg over 3 hours for Preterm Labor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 12,
+        "label": "DRUG"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 47,
+        "end": 55,
+        "label": "DURATION"
+      },
+      {
+        "start": 59,
+        "end": 72,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Leflunomide 20mg once daily for Active Rheumatoid Arthritis. Load with 100mg for 3 days.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 38,
+        "end": 60,
+        "label": "CONDITION"
+      },
+      {
+        "start": 67,
+        "end": 72,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 79,
+        "end": 87,
+        "label": "DURATION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Darifenacin 7.5mg once daily for Overactive Bladder with Urinary Incontinence",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "label": "DRUG"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 39,
+        "end": 55,
+        "label": "CONDITION"
+      },
+      {
+        "start": 60,
+        "end": 81,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Xylometazoline 0.1% nasal spray two drops each nostril three times daily for Nasal Congestion",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 19,
+        "label": "DRUG"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "label": "STRENGTH"
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "label": "ROUTE"
+      },
+      {
+        "start": 37,
+        "end": 67,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 71,
+        "end": 87,
+        "label": "CONDITION"
+      }
+    ]
+  },
+  {
+    "text": "Tab Dexlansoprazole 60mg once daily for Erosive Esophagitis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "label": "FORM"
+      },
+      {
+        "start": 4,
+        "end": 19,
+        "label": "DRUG"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "DOSAGE"
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "label": "FREQUENCY"
+      },
+      {
+        "start": 42,
+        "end": 60,
+        "label": "CONDITION"
+      }
+    ]
+  }
+]

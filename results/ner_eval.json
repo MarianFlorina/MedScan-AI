@@ -1,0 +1,908 @@
+{
+  "test_synth": {
+    "n_examples": 200,
+    "base": {
+      "strict": {
+        "DRUG": {
+          "precision": 0.6677,
+          "recall": 0.8577,
+          "f1": 0.7509,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 0.5562,
+          "recall": 0.7431,
+          "f1": 0.6362,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.2593,
+          "recall": 0.0277,
+          "f1": 0.05,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 0.7812,
+          "recall": 0.3401,
+          "f1": 0.4739,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 0.3333,
+          "recall": 0.0506,
+          "f1": 0.0879,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.0426,
+          "recall": 0.0465,
+          "f1": 0.0444,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.5721,
+          "recall": 0.4264,
+          "f1": 0.4886,
+          "support": 1107
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 0.7446,
+          "recall": 0.9565,
+          "f1": 0.8374,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 0.716,
+          "recall": 0.9565,
+          "f1": 0.819,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.6296,
+          "recall": 0.0672,
+          "f1": 0.1214,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 0.4354,
+          "f1": 0.6066,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 0.875,
+          "recall": 0.1329,
+          "f1": 0.2308,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.0426,
+          "recall": 0.0465,
+          "f1": 0.0444,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.7127,
+          "recall": 0.5312,
+          "f1": 0.6087,
+          "support": 1107
+        }
+      }
+    },
+    "legacy_v1": {
+      "strict": {
+        "DRUG": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1107
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 0.8387,
+          "recall": 0.1769,
+          "f1": 0.2921,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.8387,
+          "recall": 0.0235,
+          "f1": 0.0457,
+          "support": 1107
+        }
+      }
+    },
+    "finetuned": {
+      "strict": {
+        "DRUG": {
+          "precision": 0.8008,
+          "recall": 0.8419,
+          "f1": 0.8208,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.9731,
+          "recall": 1.0,
+          "f1": 0.9864,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 0.8548,
+          "recall": 0.6709,
+          "f1": 0.7518,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.9556,
+          "recall": 1.0,
+          "f1": 0.9773,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.9269,
+          "recall": 0.9169,
+          "f1": 0.9219,
+          "support": 1107
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 0.9474,
+          "recall": 0.996,
+          "f1": 0.9711,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.9731,
+          "recall": 1.0,
+          "f1": 0.9864,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 0.9839,
+          "recall": 0.7722,
+          "f1": 0.8652,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.9556,
+          "recall": 1.0,
+          "f1": 0.9773,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.9772,
+          "recall": 0.9666,
+          "f1": 0.9718,
+          "support": 1107
+        }
+      }
+    },
+    "regex": {
+      "strict": {
+        "DRUG": {
+          "precision": 0.9435,
+          "recall": 0.9249,
+          "f1": 0.9341,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 0.975,
+          "recall": 0.9249,
+          "f1": 0.9493,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 0.8361,
+          "recall": 0.9684,
+          "f1": 0.8974,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.9255,
+          "recall": 0.561,
+          "f1": 0.6985,
+          "support": 1107
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 0.9718,
+          "recall": 0.9526,
+          "f1": 0.9621,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 1.0,
+          "recall": 0.9486,
+          "f1": 0.9736,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 0.8634,
+          "recall": 1.0,
+          "f1": 0.9267,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.9523,
+          "recall": 0.5772,
+          "f1": 0.7188,
+          "support": 1107
+        }
+      }
+    },
+    "hybrid": {
+      "strict": {
+        "DRUG": {
+          "precision": 0.9478,
+          "recall": 0.8617,
+          "f1": 0.9027,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 0.8438,
+          "recall": 0.8538,
+          "f1": 0.8487,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.9882,
+          "recall": 0.9921,
+          "f1": 0.9901,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 1.0,
+          "recall": 0.6392,
+          "f1": 0.7799,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.9556,
+          "recall": 1.0,
+          "f1": 0.9773,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.9448,
+          "recall": 0.8817,
+          "f1": 0.9121,
+          "support": 1107
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 0.9522,
+          "recall": 0.8656,
+          "f1": 0.9068,
+          "support": 253
+        },
+        "DOSAGE": {
+          "precision": 0.9766,
+          "recall": 0.9881,
+          "f1": 0.9823,
+          "support": 253
+        },
+        "FREQUENCY": {
+          "precision": 0.9882,
+          "recall": 0.9921,
+          "f1": 0.9901,
+          "support": 253
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 147
+        },
+        "CONDITION": {
+          "precision": 1.0,
+          "recall": 0.6392,
+          "f1": 0.7799,
+          "support": 158
+        },
+        "ROUTE": {
+          "precision": 0.9556,
+          "recall": 1.0,
+          "f1": 0.9773,
+          "support": 43
+        },
+        "micro": {
+          "precision": 0.9787,
+          "recall": 0.9133,
+          "f1": 0.9449,
+          "support": 1107
+        }
+      }
+    }
+  },
+  "gold_test": {
+    "n_examples": 41,
+    "base": {
+      "strict": {
+        "DRUG": {
+          "precision": 0.5,
+          "recall": 0.8605,
+          "f1": 0.6325,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 0.5484,
+          "recall": 0.7907,
+          "f1": 0.6476,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.5,
+          "recall": 0.0465,
+          "f1": 0.0851,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 0.9,
+          "f1": 0.9474,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 0.6667,
+          "recall": 0.4828,
+          "f1": 0.56,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.75,
+          "recall": 0.5,
+          "f1": 0.6,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.569,
+          "recall": 0.569,
+          "f1": 0.569,
+          "support": 174
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 0.5676,
+          "recall": 0.9767,
+          "f1": 0.7179,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 0.6935,
+          "recall": 1.0,
+          "f1": 0.819,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.75,
+          "recall": 0.0698,
+          "f1": 0.1277,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 0.9,
+          "f1": 0.9474,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 0.8095,
+          "recall": 0.5862,
+          "f1": 0.68,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.75,
+          "recall": 0.5,
+          "f1": 0.6,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.6724,
+          "recall": 0.6724,
+          "f1": 0.6724,
+          "support": 174
+        }
+      }
+    },
+    "legacy_v1": {
+      "strict": {
+        "DRUG": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 174
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 174
+        }
+      }
+    },
+    "finetuned": {
+      "strict": {
+        "DRUG": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.9149,
+          "recall": 1.0,
+          "f1": 0.9556,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 0.9655,
+          "recall": 0.9655,
+          "f1": 0.9655,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.8571,
+          "recall": 1.0,
+          "f1": 0.9231,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.9665,
+          "recall": 0.9943,
+          "f1": 0.9802,
+          "support": 174
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.9149,
+          "recall": 1.0,
+          "f1": 0.9556,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 0.9655,
+          "recall": 0.9655,
+          "f1": 0.9655,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.8571,
+          "recall": 1.0,
+          "f1": 0.9231,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.9665,
+          "recall": 0.9943,
+          "f1": 0.9802,
+          "support": 174
+        }
+      }
+    },
+    "regex": {
+      "strict": {
+        "DRUG": {
+          "precision": 1.0,
+          "recall": 0.9767,
+          "f1": 0.9882,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 0.9767,
+          "recall": 0.9767,
+          "f1": 0.9767,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 0.8846,
+          "recall": 0.7931,
+          "f1": 0.8364,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.964,
+          "recall": 0.6149,
+          "f1": 0.7509,
+          "support": 174
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 1.0,
+          "recall": 0.9767,
+          "f1": 0.9882,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 0.9767,
+          "recall": 0.9767,
+          "f1": 0.9767,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 0.9231,
+          "recall": 0.8276,
+          "f1": 0.8727,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.973,
+          "recall": 0.6207,
+          "f1": 0.7579,
+          "support": 174
+        }
+      }
+    },
+    "hybrid": {
+      "strict": {
+        "DRUG": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 0.907,
+          "recall": 0.907,
+          "f1": 0.907,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.9149,
+          "recall": 1.0,
+          "f1": 0.9556,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 1.0,
+          "recall": 0.931,
+          "f1": 0.9643,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.8571,
+          "recall": 1.0,
+          "f1": 0.9231,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.9492,
+          "recall": 0.9655,
+          "f1": 0.9573,
+          "support": 174
+        }
+      },
+      "lenient": {
+        "DRUG": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 43
+        },
+        "DOSAGE": {
+          "precision": 0.9767,
+          "recall": 0.9767,
+          "f1": 0.9767,
+          "support": 43
+        },
+        "FREQUENCY": {
+          "precision": 0.9149,
+          "recall": 1.0,
+          "f1": 0.9556,
+          "support": 43
+        },
+        "DURATION": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 10
+        },
+        "CONDITION": {
+          "precision": 1.0,
+          "recall": 0.931,
+          "f1": 0.9643,
+          "support": 29
+        },
+        "ROUTE": {
+          "precision": 0.8571,
+          "recall": 1.0,
+          "f1": 0.9231,
+          "support": 6
+        },
+        "micro": {
+          "precision": 0.9661,
+          "recall": 0.9828,
+          "f1": 0.9744,
+          "support": 174
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "base_model": "d4data/biomedical-ner-all",
+  "lora_config": {
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.1,
+    "target_modules": [
+      "q_lin",
+      "k_lin",
+      "v_lin",
+      "lin1",
+      "lin2"
+    ]
+  },
+  "max_length": 128,
+  "batch_size": 16,
+  "epochs_total": 6,
+  "best_epoch": 4,
+  "best_val_f1_strict": 1.0,
+  "learning_rate": 0.0003,
+  "trainable_params": 1244244,
+  "total_params": 67671720,
+  "seed": 42,
+  "labels": "base-model label space (see ner_common.OURS_TO_BASE)"
+}

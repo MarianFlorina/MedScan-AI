@@ -1,0 +1,360 @@
+﻿python.exe : Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher 
+rate limits and faster downloads.
+At line:1 char:51
++ ... edScan_AI'; & '.\medscan_env\Scripts\python.exe' test_ml_cases_a_j.py ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Warning: You ar...ster downloads.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+================================================================================
+CASES A-J: ML Anomaly Classification Test
+================================================================================
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE A: Therapeutic Duplication
+  Text: Patient takes lisinopril 10 mg once daily. A new prescription is written for enalapril 5 m...
+  Expected: HIGH ΓÇö ML_DUPLICATION
+  (Two ACE inhibitors prescribed together ΓÇö therapeutic duplication)
+
+Loading weights:   0%|          | 0/515 [00:00<?, ?it/s]
+Loading weights:  50%|ΓûêΓûêΓûêΓûêΓûê     | 259/515 [00:00<00:00, 2553.34it/s]
+  ML found 10 finding(s):
+       [HIGH    ] ML_HARMFUL_COMBO                    (ML: 93.5%)
+       [HIGH    ] ML_DOSAGE_HIGH                      (ML: 92.9%)
+       [HIGH    ] ML_INTERACTION_MONITORING           (ML: 89.3%)
+       [HIGH    ] ML_MISSING_INFO                     (ML: 53.0%)
+       [MODERATE] ML_SIDE_EFFECT                      (ML: 99.9%)
+       [MODERATE] ML_MILD_INTERACTION                 (ML: 93.1%)
+       [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 80.1%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 99.1%)
+       [LOW     ] ML_LIFESTYLE                        (ML: 56.9%)
+       [LOW     ] ML_PREVENTIVE                       (ML: 40.6%)
+  ΓÜá∩╕Å SEVERITY MATCH ΓÇö Right severity (HIGH) but different type: ['ML_HARMFUL_COMBO', 'ML_DOSAGE_HIGH', 'ML_INTERACTION_MONITORING', 'ML_MISSING_INFO']
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE B: Significant Interaction
+  Text: Patient takes warfarin for atrial fibrillation. Trimethoprim-sulfamethoxazole is newly pre...
+  Expected: HIGH ΓÇö ML_INTERACTION_MONITORING
+  (Warfarin + TMP-SMX ΓÇö significant interaction requiring INR monitoring)
+  ML found 11 finding(s):
+    Γ£à [HIGH    ] ML_INTERACTION_MONITORING           (ML: 99.7%)
+       [HIGH    ] ML_HARMFUL_COMBO                    (ML: 99.5%)
+       [HIGH    ] ML_DUPLICATION                      (ML: 81.6%)
+       [HIGH    ] ML_DOSAGE_HIGH                      (ML: 75.2%)
+       [HIGH    ] ML_CONTRAINDICATION                 (ML: 73.0%)
+       [MODERATE] ML_SIDE_EFFECT                      (ML: 99.9%)
+       [MODERATE] ML_MILD_INTERACTION                 (ML: 87.4%)
+       [MODERATE] ML_LAB_MONITORING                   (ML: 78.3%)
+       [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 60.5%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 93.3%)
+       [LOW     ] ML_PREVENTIVE                       (ML: 89.8%)
+  Γ£à PASS ΓÇö Correct type and severity detected
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE C: High Dose
+  Text: Patient is prescribed metformin 3000 mg twice daily for type 2 diabetes. The prescription ...
+  Expected: HIGH ΓÇö ML_DOSAGE_HIGH
+  (Metformin at 6000mg/day ΓÇö well above usual max of 2550mg/day)
+  ML found 9 finding(s):
+       [HIGH    ] ML_MISSING_INFO                     (ML: 99.7%)
+    Γ£à [HIGH    ] ML_DOSAGE_HIGH                      (ML: 98.9%)
+       [HIGH    ] ML_HARMFUL_COMBO                    (ML: 96.0%)
+       [HIGH    ] ML_INTERACTION_MONITORING           (ML: 85.6%)
+       [HIGH    ] ML_DUPLICATION                      (ML: 49.7%)
+       [MODERATE] ML_SIDE_EFFECT                      (ML: 98.4%)
+       [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 87.0%)
+       [MODERATE] ML_MILD_INTERACTION                 (ML: 77.6%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 94.9%)
+  Γ£à PASS ΓÇö Correct type and severity detected
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE D: Mild Interaction / Food Interaction
+  Text: Patient takes levothyroxine every morning and asks whether they can take calcium supplemen...
+  Expected: MODERATE ΓÇö ML_MILD_INTERACTION
+  (Calcium reduces levothyroxine absorption ΓÇö mild but important interaction)
+  ML found 13 finding(s):
+       [HIGH    ] ML_INTERACTION_MONITORING           (ML: 98.8%)
+       [HIGH    ] ML_HARMFUL_COMBO                    (ML: 90.8%)
+       [HIGH    ] ML_DUPLICATION                      (ML: 80.5%)
+       [HIGH    ] ML_MISSING_INFO                     (ML: 65.1%)
+       [HIGH    ] ML_DOSAGE_HIGH                      (ML: 55.9%)
+       [MODERATE] ML_SIDE_EFFECT                      (ML: 99.8%)
+       [MODERATE] ML_FOOD_INTERACTION                 (ML: 97.9%)
+    Γ£à [MODERATE] ML_MILD_INTERACTION                 (ML: 91.9%)
+       [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 69.9%)
+       [MODERATE] ML_LAB_MONITORING                   (ML: 67.7%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 99.4%)
+       [LOW     ] ML_LIFESTYLE                        (ML: 98.6%)
+       [LOW     ] ML_PREVENTIVE                       (ML: 87.3%)
+  Γ£à PASS ΓÇö Correct type and severity detected
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE E: Lab Monitoring Required
+  Text: Patient has recently started warfarin for deep vein thrombosis. No follow-up INR laborator...
+  Expected: MODERATE ΓÇö ML_LAB_MONITORING
+  (Warfarin requires regular INR monitoring ΓÇö none scheduled)
+  ML found 12 finding(s):
+       [CRITICAL] ML_DRUG_INTERACTION                 (ML: 86.7%)
+       [HIGH    ] ML_HARMFUL_COMBO                    (ML: 98.5%)
+       [HIGH    ] ML_INTERACTION_MONITORING           (ML: 98.5%)
+       [HIGH    ] ML_MISSING_INFO                     (ML: 88.9%)
+       [HIGH    ] ML_DUPLICATION                      (ML: 84.1%)
+       [HIGH    ] ML_DOSAGE_HIGH                      (ML: 47.7%)
+       [MODERATE] ML_SIDE_EFFECT                      (ML: 99.7%)
+    Γ£à [MODERATE] ML_LAB_MONITORING                   (ML: 87.6%)
+       [MODERATE] ML_MILD_INTERACTION                 (ML: 84.4%)
+       [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 72.4%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 89.8%)
+       [LOW     ] ML_PREVENTIVE                       (ML: 42.7%)
+  Γ£à PASS ΓÇö Correct type and severity detected
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE F: Dosage Near Limit
+  Text: Patient is receiving amlodipine 10 mg daily for hypertension, which is the maximum recomme...
+  Expected: MODERATE ΓÇö ML_DOSAGE_NEAR_LIMIT
+  (Amlodipine at max dose 10mg ΓÇö safe but near upper limit, long-term monitoring needed)
+  ML found 11 finding(s):
+       [HIGH    ] ML_INTERACTION_MONITORING           (ML: 77.4%)
+       [HIGH    ] ML_DUPLICATION                      (ML: 75.5%)
+       [HIGH    ] ML_MISSING_INFO                     (ML: 54.1%)
+       [HIGH    ] ML_HARMFUL_COMBO                    (ML: 44.5%)
+    Γ£à [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 99.2%)
+       [MODERATE] ML_SIDE_EFFECT                      (ML: 98.6%)
+       [MODERATE] ML_MILD_INTERACTION                 (ML: 92.1%)
+       [MODERATE] ML_LAB_MONITORING                   (ML: 42.6%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 98.0%)
+       [LOW     ] ML_LIFESTYLE                        (ML: 75.5%)
+       [LOW     ] ML_MINOR_CONCERN                    (ML: 55.7%)
+  Γ£à PASS ΓÇö Correct type and severity detected
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE G: Side Effect
+  Text: Patient started sertraline 50 mg three days ago and reports mild nausea. The medication co...
+  Expected: MODERATE ΓÇö ML_SIDE_EFFECT
+  (SSRI-induced nausea ΓÇö common, usually transient, typically resolves in 1-2 weeks)
+  ML found 14 finding(s):
+       [HIGH    ] ML_HARMFUL_COMBO                    (ML: 99.3%)
+       [HIGH    ] ML_INTERACTION_MONITORING           (ML: 98.3%)
+       [HIGH    ] ML_DOSAGE_HIGH                      (ML: 87.3%)
+       [HIGH    ] ML_MISSING_INFO                     (ML: 73.7%)
+       [HIGH    ] ML_DUPLICATION                      (ML: 71.3%)
+       [HIGH    ] ML_CONTRAINDICATION                 (ML: 47.5%)
+    Γ£à [MODERATE] ML_SIDE_EFFECT                      (ML: 99.9%)
+       [MODERATE] ML_MILD_INTERACTION                 (ML: 99.7%)
+       [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 96.3%)
+       [MODERATE] ML_FOOD_INTERACTION                 (ML: 81.5%)
+       [MODERATE] ML_LAB_MONITORING                   (ML: 60.5%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 98.0%)
+       [LOW     ] ML_LIFESTYLE                        (ML: 81.1%)
+       [LOW     ] ML_PREVENTIVE                       (ML: 63.1%)
+  Γ£à PASS ΓÇö Correct type and severity detected
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE H: Food Interaction
+  Text: Patient takes warfarin 5 mg daily and reports eating spinach and leafy greens with every m...
+  Expected: MODERATE ΓÇö ML_FOOD_INTERACTION
+  (Vitamin K-rich foods counteract warfarin ΓÇö dietary counseling needed)
+  ML found 12 finding(s):
+       [HIGH    ] ML_INTERACTION_MONITORING           (ML: 96.8%)
+       [HIGH    ] ML_HARMFUL_COMBO                    (ML: 90.1%)
+       [HIGH    ] ML_DUPLICATION                      (ML: 76.9%)
+       [HIGH    ] ML_DOSAGE_HIGH                      (ML: 64.1%)
+       [MODERATE] ML_SIDE_EFFECT                      (ML: 99.6%)
+    Γ£à [MODERATE] ML_FOOD_INTERACTION                 (ML: 99.5%)
+       [MODERATE] ML_MILD_INTERACTION                 (ML: 91.5%)
+       [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 90.7%)
+       [MODERATE] ML_LAB_MONITORING                   (ML: 63.2%)
+       [LOW     ] ML_LIFESTYLE                        (ML: 99.7%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 94.3%)
+       [LOW     ] ML_PREVENTIVE                       (ML: 66.0%)
+  Γ£à PASS ΓÇö Correct type and severity detected
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE I: Lifestyle
+  Text: Patient is prescribed amlodipine 5 mg for hypertension and reports a high-sodium diet, sed...
+  Expected: LOW ΓÇö ML_LIFESTYLE
+  (Lifestyle factors undermining hypertension medication effectiveness)
+  ML found 11 finding(s):
+       [HIGH    ] ML_HARMFUL_COMBO                    (ML: 95.7%)
+       [HIGH    ] ML_INTERACTION_MONITORING           (ML: 95.6%)
+       [HIGH    ] ML_DOSAGE_HIGH                      (ML: 78.5%)
+       [HIGH    ] ML_MISSING_INFO                     (ML: 68.3%)
+       [HIGH    ] ML_DUPLICATION                      (ML: 64.8%)
+       [MODERATE] ML_SIDE_EFFECT                      (ML: 99.7%)
+       [MODERATE] ML_FOOD_INTERACTION                 (ML: 98.9%)
+       [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 90.7%)
+       [MODERATE] ML_MILD_INTERACTION                 (ML: 88.0%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 98.4%)
+    Γ£à [LOW     ] ML_LIFESTYLE                        (ML: 98.2%)
+  Γ£à PASS ΓÇö Correct type and severity detected
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+CASE J: Preventive Screening
+  Text: 52-year-old patient presents for routine medication review of their lisinopril. No prevent...
+  Expected: LOW ΓÇö ML_PREVENTIVE
+  (Age-appropriate preventive screenings not documented (colonoscopy, mammography, etc.))
+  ML found 7 finding(s):
+       [HIGH    ] ML_MISSING_INFO                     (ML: 98.6%)
+       [MODERATE] ML_SIDE_EFFECT                      (ML: 95.5%)
+       [MODERATE] ML_LAB_MONITORING                   (ML: 73.2%)
+       [MODERATE] ML_DOSAGE_NEAR_LIMIT                (ML: 64.8%)
+       [MODERATE] ML_MILD_INTERACTION                 (ML: 63.5%)
+       [LOW     ] ML_DOSAGE_OPTIMIZATION              (ML: 87.3%)
+       [LOW     ] ML_MINOR_CONCERN                    (ML: 36.4%)
+  ΓÜá∩╕Å SEVERITY MATCH ΓÇö Right severity (LOW) but different type: ['ML_DOSAGE_OPTIMIZATION', 'ML_MINOR_CONCERN']
+
+================================================================================
+SUMMARY: 8/10 PASS | 0/10 FAIL
+================================================================================
+  ΓÜá∩╕Å Case A: SEVERITY_ONLY
+  Γ£à Case B: PASS (100%)
+  Γ£à Case C: PASS (99%)
+  Γ£à Case D: PASS (92%)
+  Γ£à Case E: PASS (88%)
+  Γ£à Case F: PASS (99%)
+  Γ£à Case G: PASS (100%)
+  Γ£à Case H: PASS (100%)
+  Γ£à Case I: PASS (98%)
+  ΓÜá∩╕Å Case J: SEVERITY_ONLY
+
+================================================================================
+DETAILED FINDINGS FOR EXPECTED ADJUSTMENTS
+================================================================================
+
+Case A (Therapeutic Duplication) ΓÇö ALL findings above 25%:
+  [HIGH    ] ML_HARMFUL_COMBO                    (94%)
+  [HIGH    ] ML_DOSAGE_HIGH                      (93%)
+  [HIGH    ] ML_INTERACTION_MONITORING           (89%)
+  [HIGH    ] ML_MISSING_INFO                     (53%)
+  [MODERATE] ML_SIDE_EFFECT                      (100%)
+  [MODERATE] ML_MILD_INTERACTION                 (93%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (80%)
+  [MODERATE] ML_LAB_MONITORING                   (27%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (99%)
+  [LOW     ] ML_LIFESTYLE                        (57%)
+  [LOW     ] ML_PREVENTIVE                       (41%)
+
+Case B (Significant Interaction) ΓÇö ALL findings above 25%:
+  [HIGH    ] ML_INTERACTION_MONITORING           (100%)
+  [HIGH    ] ML_HARMFUL_COMBO                    (100%)
+  [HIGH    ] ML_DUPLICATION                      (82%)
+  [HIGH    ] ML_DOSAGE_HIGH                      (75%)
+  [HIGH    ] ML_CONTRAINDICATION                 (73%)
+  [HIGH    ] ML_MISSING_INFO                     (33%)
+  [MODERATE] ML_SIDE_EFFECT                      (100%)
+  [MODERATE] ML_MILD_INTERACTION                 (87%)
+  [MODERATE] ML_LAB_MONITORING                   (78%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (60%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (93%)
+  [LOW     ] ML_PREVENTIVE                       (90%)
+
+Case C (High Dose) ΓÇö ALL findings above 25%:
+  [HIGH    ] ML_MISSING_INFO                     (100%)
+  [HIGH    ] ML_DOSAGE_HIGH                      (99%)
+  [HIGH    ] ML_HARMFUL_COMBO                    (96%)
+  [HIGH    ] ML_INTERACTION_MONITORING           (86%)
+  [HIGH    ] ML_DUPLICATION                      (50%)
+  [MODERATE] ML_SIDE_EFFECT                      (98%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (87%)
+  [MODERATE] ML_MILD_INTERACTION                 (78%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (95%)
+
+Case D (Mild Interaction / Food Interaction) ΓÇö ALL findings above 25%:
+  [HIGH    ] ML_INTERACTION_MONITORING           (99%)
+  [HIGH    ] ML_HARMFUL_COMBO                    (91%)
+  [HIGH    ] ML_DUPLICATION                      (80%)
+  [HIGH    ] ML_MISSING_INFO                     (65%)
+  [HIGH    ] ML_DOSAGE_HIGH                      (56%)
+  [MODERATE] ML_SIDE_EFFECT                      (100%)
+  [MODERATE] ML_FOOD_INTERACTION                 (98%)
+  [MODERATE] ML_MILD_INTERACTION                 (92%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (70%)
+  [MODERATE] ML_LAB_MONITORING                   (68%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (99%)
+  [LOW     ] ML_LIFESTYLE                        (99%)
+  [LOW     ] ML_PREVENTIVE                       (87%)
+
+Case E (Lab Monitoring Required) ΓÇö ALL findings above 25%:
+  [CRITICAL] ML_DRUG_INTERACTION                 (87%)
+Loading weights: 100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 515/515 [00:00<00:00, 2719.56it/s]
+  [HIGH    ] ML_HARMFUL_COMBO                    (98%)
+  [HIGH    ] ML_INTERACTION_MONITORING           (98%)
+  [HIGH    ] ML_MISSING_INFO                     (89%)
+  [HIGH    ] ML_DUPLICATION                      (84%)
+  [HIGH    ] ML_DOSAGE_HIGH                      (48%)
+  [MODERATE] ML_SIDE_EFFECT                      (100%)
+  [MODERATE] ML_LAB_MONITORING                   (88%)
+  [MODERATE] ML_MILD_INTERACTION                 (84%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (72%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (90%)
+  [LOW     ] ML_PREVENTIVE                       (43%)
+
+Case F (Dosage Near Limit) ΓÇö ALL findings above 25%:
+  [HIGH    ] ML_INTERACTION_MONITORING           (77%)
+  [HIGH    ] ML_DUPLICATION                      (76%)
+  [HIGH    ] ML_MISSING_INFO                     (54%)
+  [HIGH    ] ML_HARMFUL_COMBO                    (44%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (99%)
+  [MODERATE] ML_SIDE_EFFECT                      (99%)
+  [MODERATE] ML_MILD_INTERACTION                 (92%)
+  [MODERATE] ML_LAB_MONITORING                   (43%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (98%)
+  [LOW     ] ML_LIFESTYLE                        (76%)
+  [LOW     ] ML_MINOR_CONCERN                    (56%)
+
+Case G (Side Effect) ΓÇö ALL findings above 25%:
+  [CRITICAL] ML_MENTAL_HEALTH_RISK               (27%)
+  [HIGH    ] ML_HARMFUL_COMBO                    (99%)
+  [HIGH    ] ML_INTERACTION_MONITORING           (98%)
+  [HIGH    ] ML_DOSAGE_HIGH                      (87%)
+  [HIGH    ] ML_MISSING_INFO                     (74%)
+  [HIGH    ] ML_DUPLICATION                      (71%)
+  [HIGH    ] ML_CONTRAINDICATION                 (48%)
+  [MODERATE] ML_SIDE_EFFECT                      (100%)
+  [MODERATE] ML_MILD_INTERACTION                 (100%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (96%)
+  [MODERATE] ML_FOOD_INTERACTION                 (82%)
+  [MODERATE] ML_LAB_MONITORING                   (60%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (98%)
+  [LOW     ] ML_LIFESTYLE                        (81%)
+  [LOW     ] ML_PREVENTIVE                       (63%)
+  [LOW     ] ML_MINOR_CONCERN                    (32%)
+
+Case H (Food Interaction) ΓÇö ALL findings above 25%:
+  [HIGH    ] ML_INTERACTION_MONITORING           (97%)
+  [HIGH    ] ML_HARMFUL_COMBO                    (90%)
+  [HIGH    ] ML_DUPLICATION                      (77%)
+  [HIGH    ] ML_DOSAGE_HIGH                      (64%)
+  [HIGH    ] ML_MISSING_INFO                     (33%)
+  [MODERATE] ML_SIDE_EFFECT                      (100%)
+  [MODERATE] ML_FOOD_INTERACTION                 (100%)
+  [MODERATE] ML_MILD_INTERACTION                 (92%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (91%)
+  [MODERATE] ML_LAB_MONITORING                   (63%)
+  [LOW     ] ML_LIFESTYLE                        (100%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (94%)
+  [LOW     ] ML_PREVENTIVE                       (66%)
+
+Case I (Lifestyle) ΓÇö ALL findings above 25%:
+  [HIGH    ] ML_HARMFUL_COMBO                    (96%)
+  [HIGH    ] ML_INTERACTION_MONITORING           (96%)
+  [HIGH    ] ML_DOSAGE_HIGH                      (78%)
+  [HIGH    ] ML_MISSING_INFO                     (68%)
+  [HIGH    ] ML_DUPLICATION                      (65%)
+  [MODERATE] ML_SIDE_EFFECT                      (100%)
+  [MODERATE] ML_FOOD_INTERACTION                 (99%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (91%)
+  [MODERATE] ML_MILD_INTERACTION                 (88%)
+  [MODERATE] ML_LAB_MONITORING                   (28%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (98%)
+  [LOW     ] ML_LIFESTYLE                        (98%)
+
+Case J (Preventive Screening) ΓÇö ALL findings above 25%:
+  [HIGH    ] ML_MISSING_INFO                     (99%)
+  [HIGH    ] ML_DOSAGE_HIGH                      (33%)
+  [MODERATE] ML_SIDE_EFFECT                      (96%)
+  [MODERATE] ML_LAB_MONITORING                   (73%)
+  [MODERATE] ML_DOSAGE_NEAR_LIMIT                (65%)
+  [MODERATE] ML_MILD_INTERACTION                 (64%)
+  [LOW     ] ML_DOSAGE_OPTIMIZATION              (87%)
+  [LOW     ] ML_MINOR_CONCERN                    (36%)

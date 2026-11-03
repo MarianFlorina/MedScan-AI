@@ -1,0 +1,380 @@
+{
+  "rows": [
+    {
+      "file": "collage_01.png",
+      "lang": "en",
+      "ocr_conf": 0.85,
+      "drugs_found": "4/4",
+      "doses_ok": "4/4",
+      "required_alerts_ok": null,
+      "serious_alerts": [],
+      "detail": [
+        "crocin: dose 650mg (want 650mg)",
+        "azithral: dose 500mg (want 500mg)",
+        "levocetirizine: dose 5mg (want 5mg)",
+        "pantoprazole: dose 40mg (want 40mg)"
+      ],
+      "ocr_text": "S\nY, Apollo Hospitals —_vepartment of\nChennai - 600 006 General Medicine\nName > S. Karthik\nAge / Sex : 28/M\nDate : 12-07-2026\nComplaints: Fever, sore throat, body ache\nDiagnosis : Acute viral fever\nRx\n1. Crocin 650 mg 1-0-1 x 3 days\n2. Azithral 500 mg 1-0-0 x 3 days\n3. Levocetirizine 5 mg 0-0-1 x 5 days\n4. Pantoprazole 40 mg 1-0-0 x 5 days\nAdvice :\n- Take plenty of fluids\n- Rest\n- Steam inhalation af De\nDr. R. Meenakshi\nMBBS, MD\nReg. No: 74821",
+      "meds": [
+        [
+          "paracetamol",
+          "650 mg"
+        ],
+        [
+          "azithromycin",
+          "500 mg"
+        ],
+        [
+          "levocetirizine",
+          "5 mg"
+        ],
+        [
+          "pantoprazole",
+          "40 mg"
+        ]
+      ],
+      "alerts": []
+    },
+    {
+      "file": "collage_02.png",
+      "lang": "en",
+      "ocr_conf": 0.81,
+      "drugs_found": "4/4",
+      "doses_ok": "4/4",
+      "required_alerts_ok": null,
+      "serious_alerts": [],
+      "detail": [
+        "dolo: dose 650mg (want 650mg)",
+        "mox: dose 500mg (want 500mg)",
+        "ascoril: dose 10ml (want 10ml)",
+        "pantodac: dose 40mg (want 40mg)"
+      ],
+      "ocr_text": "@ YI Sri Balaji Clinic\nNo. 18, Ird Main Road, Velachery,\nChennal - 600 642\nDr. V. Rajesh |\nMBBS, OPH\nGeneral Practitioner i\nName : Revathi S\nAge/Sex: 35 / F\nDate: 21/08/2026\nC/o: Cough with Sputum , fever\n| Rx\n|) Tab. Dolo 650 mg I-I-1 x 5 days\n2) Cap. Mox 500 l-o-I| x 5 days\n3) Syr. Ascoril LS 10 ml 1-0-1 xX 5 days\n4) Tab. Pantodac 40 (1-0-0 x5 days\n| Advice : - Warm fluids UX.\n| - Avoid cold food ;\nDr. V. Rajesh\nINIC\nSRI BALA ac\nChennai - 600 042",
+      "meds": [
+        [
+          "paracetamol",
+          "650 mg"
+        ],
+        [
+          "ascoril",
+          "10 ml"
+        ],
+        [
+          "pantoprazole",
+          "40mg"
+        ],
+        [
+          "amoxicillin",
+          "500mg"
+        ]
+      ],
+      "alerts": []
+    },
+    {
+      "file": "collage_03.png",
+      "lang": "en",
+      "ocr_conf": 0.87,
+      "drugs_found": "5/5",
+      "doses_ok": "5/5",
+      "required_alerts_ok": null,
+      "serious_alerts": [],
+      "detail": [
+        "metformin: dose 500mg (want 500mg)",
+        "glimepiride: dose 1mg (want 1mg)",
+        "telmisartan: dose 40mg (want 40mg)",
+        "amlodipine: dose 5mg (want 5mg)",
+        "atorvastatin: dose 10mg (want 10mg)"
+      ],
+      "ocr_text": "t\nLifecare Multispeciality Hospital _ |\nAnna Nagar, Chennai - 600 040\nDepartment of Endocrinology\nName : V. Srinivasan\nAge/Sex : 58/M\nDate : 05-06-2026\nDiagnosis : Type 2 Diabetes Mellitus, Hypertension\nRy\n1. Metformin 500 mg 1-0-1 (after food)\n2. Glimepiride 1 mg 1-0-0 (before food)\n3. Telmisartan 40 mg 1-0-0 (morning)\n4. Amlodipine 5 mg 0-0-1 (night)\n5. Atorvastatin 10 mg 0-0-1 (night)\nAdvice :\n- Diet control\n- Regular exercise\n- Monitor blood sugar levels z\nDr. S. Narayanan\nMD (Internal Medicine)\nReg. No: 66214",
+      "meds": [
+        [
+          "metformin",
+          "500 mg"
+        ],
+        [
+          "glimepiride",
+          "1 mg"
+        ],
+        [
+          "telmisartan",
+          "40 mg"
+        ],
+        [
+          "amlodipine",
+          "5 mg"
+        ],
+        [
+          "atorvastatin",
+          "10 mg"
+        ]
+      ],
+      "alerts": []
+    },
+    {
+      "file": "collage_04.png",
+      "lang": "en",
+      "ocr_conf": 0.86,
+      "drugs_found": "2/2",
+      "doses_ok": "1/1",
+      "required_alerts_ok": true,
+      "serious_alerts": [
+        "TERATOGEN_CHILDBEARING_AGE"
+      ],
+      "detail": [
+        "isotretinoin: dose 10mg (want 10mg)"
+      ],
+      "ocr_text": "Q Skin & Hair Clinic\nDr. L. Priya\nMD (Dermatology)\nName : Anitha\nAge/Sex: 24 / F\nDate : 10/09/2026\nDx: Acne vulgaris\nRy.\n!) Face wash (salicylic acid) - BD\n2) Clindamycin gel - apply thin layer - BD\n3) T. Isotretinoin 10 ia = 0-0-1 - | month,\n4) Moisturiser — apply as needed\n5) Sunscreen SPF 50 — OD (morning)\ner\nDr. L. Priga.",
+      "meds": [
+        [
+          "clindamycin",
+          ""
+        ],
+        [
+          "isotretinoin",
+          "10mg"
+        ],
+        [
+          "salicylic acid",
+          ""
+        ]
+      ],
+      "alerts": [
+        [
+          "HIGH",
+          "TERATOGEN_CHILDBEARING_AGE"
+        ],
+        [
+          "MODERATE",
+          "INCOMPLETE_PRESCRIPTION"
+        ],
+        [
+          "MODERATE",
+          "INCOMPLETE_PRESCRIPTION"
+        ]
+      ]
+    },
+    {
+      "file": "collage_05.png",
+      "lang": "en",
+      "ocr_conf": 0.89,
+      "drugs_found": "3/3",
+      "doses_ok": "0/0",
+      "required_alerts_ok": null,
+      "serious_alerts": [],
+      "detail": [],
+      "ocr_text": "5 A Kauvery Hospital\nkauvery Pediatric Department\n\nBARI Chennai - 600 018\n\nName : Baby Adithya\nAge : 4years\nWeight : 15 kg\nDate : 18/07/2026\n\nC/o: Fever since 2 days\n\nRx\n1. Paracetamol syrup\n250 mg/5 ml\n\n2. Cefixime syrup\n100 mg/5 ml\n\n3. Levocetirizine\nsyrup\n\n7.5 ml\n\n5 ml\n\n2.5 ml\n\nAdvice :\n- Give plenty of fluids\n\n1-1-1 x 3 days\n\n1-0-1 x5 days\n\n0-0-1 x 5 days\n\n- Tepid sponging if fever > 100°F\n\n- Follow up if no Pe es\n\n“Dr. R. Divya\nMD (Paediatrics)\nReg. No: 91234",
+      "meds": [
+        [
+          "paracetamol",
+          ""
+        ],
+        [
+          "cefixime",
+          "5 ml"
+        ],
+        [
+          "levocetirizine",
+          ""
+        ]
+      ],
+      "alerts": [
+        [
+          "MODERATE",
+          "INCOMPLETE_PRESCRIPTION"
+        ],
+        [
+          "MODERATE",
+          "INCOMPLETE_PRESCRIPTION"
+        ]
+      ]
+    },
+    {
+      "file": "collage_06.png",
+      "lang": "hi",
+      "ocr_conf": 0.74,
+      "drugs_found": "2/3",
+      "doses_ok": "1/2",
+      "required_alerts_ok": null,
+      "serious_alerts": [
+        "INCOMPLETE_PRESCRIPTION"
+      ],
+      "detail": [
+        "paracetamol: dose 500mg (want 500mg)",
+        "amoxicillin: dose MISSING (want 500mg)",
+        "levocetirizine: NOT EXTRACTED (not in OCR text)"
+      ],
+      "ocr_text": "C6)\n| राजकीय चिविक्सालय '\nनह दिल्‍ली - 110027\n... नाम : सीमा शर्मा ।\nआदयु/लिंग : 42 / महिला\nfeats =: 01/08/2026\nee\nपरामर्श ; खांसी, गले में दर्द |\nRx\n1. 3a. paracetamol 500 mg = 1-0-1 x 3a\n2. 2B. amoxicillin Soomg = [11 x 5 दिन\n3. सिरप aaa to ml 0-0-1 x 5 feat\nसलाह : ye\n- गरम पाली fag Sa __\n- ठंडी सीजों से परहेज कारें डॉ. ए. कुमार\nAS =) MBBS\no> Reg. No: 123456",
+      "meds": [
+        [
+          "paracetamol",
+          "500 mg"
+        ],
+        [
+          "amoxicillin",
+          ""
+        ]
+      ],
+      "alerts": [
+        [
+          "HIGH",
+          "INCOMPLETE_PRESCRIPTION"
+        ]
+      ]
+    },
+    {
+      "file": "collage_07.png",
+      "lang": "ta",
+      "ocr_conf": 0.82,
+      "drugs_found": "3/3",
+      "doses_ok": "3/3",
+      "required_alerts_ok": null,
+      "serious_alerts": [],
+      "detail": [
+        "omeprazole: dose 20mg (want 20mg)",
+        "domperidone: dose 10mg (want 10mg)",
+        "simethicone: dose 40mg (want 40mg)"
+      ],
+      "ocr_text": "7 மீனாட்கி கிளினிக்‌\n\nஇ T. Nagar, சென்ன - 600 017\nDr. K. Murugan\nMBBS, DGO\n988 grow\nபெயர்‌ : லட்கமி\n\nலயது/பால்‌: 30 / பெண்‌\nதேதி : 14/08/2026\n\nபுகார்‌ : வயிற்று வனி, வாந்தி உணர்வு\nRx\n\n1. பாம்‌. omeprazole 20 mg 1-0-1 %5 நாட்கள்‌\n2. பாம்‌. domperidone 10 mg 1-0-1 x5 நாட்கள்‌\n\n3. பாம்‌, simethicone 40 mg 1-1-1 %3]நாட்கள்‌\nகுறிப்பூ : தத\n= குடான உனவு எடுக்குக்கொள்ளவும்‌\n- அதிக எண்ணெய்‌/கார உணவுகனன\nதலிஃக்கவும்‌\nமகுக்துளா*",
+      "meds": [
+        [
+          "omeprazole",
+          "20 mg"
+        ],
+        [
+          "domperidone",
+          "10 mg"
+        ],
+        [
+          "simethicone",
+          "40 mg"
+        ]
+      ],
+      "alerts": []
+    },
+    {
+      "file": "collage_08.png",
+      "lang": "en",
+      "ocr_conf": 0.86,
+      "drugs_found": "4/4",
+      "doses_ok": "4/4",
+      "required_alerts_ok": true,
+      "serious_alerts": [
+        "DRUG_INTERACTION"
+      ],
+      "detail": [
+        "warfarin: dose 5mg (want 5mg)",
+        "aspirin: dose 75mg (want 75mg)",
+        "metoprolol: dose 25mg (want 25mg)",
+        "furosemide: dose 40mg (want 40mg)"
+      ],
+      "ocr_text": "—_ BY f 7.\n©. City Care Clinic\nAdyar, Chennai - 600 020\nName : Ramesh 4\nAge/Sex : 65/™M\nDate : 28/06/2026\nKnown case of: Atrial Fibrillation\nAllergy | Penicillin (rash) a«\nRx\n1. Warfarin 5 mg 1-0-0\n2 Aspirin 75 mg 1-0-0\n3. Metoprolol 25 mg 1-0-1\n4. Furosemide 40 mg 1-0-0\nAdvice :\n- Regular INR monitoring\n- Avoid self-medication\n| Dr. K. Varun\nMD (Cardiology)\nReg. No: 77890\n1",
+      "meds": [
+        [
+          "warfarin",
+          "5 mg"
+        ],
+        [
+          "aspirin",
+          "75 mg"
+        ],
+        [
+          "metoprolol",
+          "25 mg"
+        ],
+        [
+          "furosemide",
+          "40 mg"
+        ]
+      ],
+      "alerts": [
+        [
+          "CRITICAL",
+          "DRUG_INTERACTION"
+        ],
+        [
+          "MODERATE",
+          "ADVERSE_REACTION"
+        ]
+      ]
+    },
+    {
+      "file": "collage_09.png",
+      "lang": "en",
+      "ocr_conf": 0.79,
+      "drugs_found": "3/4",
+      "doses_ok": "3/3",
+      "required_alerts_ok": null,
+      "serious_alerts": [],
+      "detail": [
+        "diclofenac: dose 50mg (want 50mg)",
+        "thiocolchicoside: dose 4mg (want 4mg)",
+        "pregabalin: dose 75mg (want 75mg)",
+        "pantoprazole: NOT EXTRACTED (not in OCR text)"
+      ],
+      "ocr_text": "045\n\n4\n\nP Tab. Diclofenac 50 mg I-0-1_x Sidays\n92) Tab. Thiocolchicosicde 4 mg {-0-] x 5 days\n\n3. Tab. Pregabalin 75 mg 0-0-| x 5 days\n\n4 Tab. Fantoprazole AO img 1-0-0 x 5 days\n\nAdvice :\n- Avoid heavy lifting\n~ Physiotherapy",
+      "meds": [
+        [
+          "diclofenac",
+          "50 mg"
+        ],
+        [
+          "thiocolchicoside",
+          "4 mg"
+        ],
+        [
+          "pregabalin",
+          "75 mg"
+        ]
+      ],
+      "alerts": []
+    },
+    {
+      "file": "collage_10.png",
+      "lang": "en",
+      "ocr_conf": 0.86,
+      "drugs_found": "5/5",
+      "doses_ok": "3/4",
+      "required_alerts_ok": null,
+      "serious_alerts": [
+        "INCOMPLETE_PRESCRIPTION"
+      ],
+      "detail": [
+        "telmisartan: dose 40mg (want 40mg)",
+        "amlodipine: dose 5mg (want 5mg)",
+        "torsemide: dose 10mg (want 10mg)",
+        "calcium carbonate: dose MISSING (want 500mg)"
+      ],
+      "ocr_text": "— International Nephrology\nChennai - 600 089 Department\n\nName : Gopalakrishnan\n\nAge/Sex : 60/M\n\nDate : 09-09-2026\n\nDiagnosis : Chronic Kidney Disease (Stage 3)\n\nRy\n\n1. Telmisartan 40 mg 1-0-0\n\n2. Amlodipine 5 mg 0-0-1\n\n3. Torsemide 10 mg 1-0-0\n\n4. Calcium Carbonate 500 mg 1-1-1 (after food)\n\n5. Vitamin D3 60,000 IU 1 capsule weekly\n\nAdvice :\n\n- Low salt diet\n\n- Regular monitoring of kidney function\n\n- Follow up after 1 month e-\n——————\nDr. P. Raghavan\nMD, OM (Nephrology)\nReg. No: 54321",
+      "meds": [
+        [
+          "telmisartan",
+          "40 mg"
+        ],
+        [
+          "amlodipine",
+          "5 mg"
+        ],
+        [
+          "torsemide",
+          "10 mg"
+        ],
+        [
+          "calcium-carbonate",
+          "500 mg"
+        ],
+        [
+          "vitamin d3",
+          ""
+        ]
+      ],
+      "alerts": [
+        [
+          "HIGH",
+          "INCOMPLETE_PRESCRIPTION"
+        ]
+      ]
+    }
+  ],
+  "drug_recall": 0.9459459459459459,
+  "dose_accuracy": 0.9333333333333333
+}

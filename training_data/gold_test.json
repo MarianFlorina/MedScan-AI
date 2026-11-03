@@ -1,0 +1,1077 @@
+[
+ {
+  "text": "Tab Amoxicillin 500mg twice daily for 7 days",
+  "entities": [
+   {
+    "start": 4,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 33,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 38,
+    "end": 44,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Inj Ceftriaxone 1g IV once daily for pneumonia",
+  "entities": [
+   {
+    "start": 4,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 21,
+    "label": "ROUTE"
+   },
+   {
+    "start": 22,
+    "end": 32,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 37,
+    "end": 46,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Patient prescribed Warfarin 5mg daily for Atrial Fibrillation",
+  "entities": [
+   {
+    "start": 19,
+    "end": 27,
+    "label": "DRUG"
+   },
+   {
+    "start": 28,
+    "end": 31,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 32,
+    "end": 37,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 61,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Metformin 500mg BD after meals for Type 2 Diabetes",
+  "entities": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 22,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 39,
+    "end": 54,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Sertraline 50mg once daily for Depression and Anxiety",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 35,
+    "end": 45,
+    "label": "CONDITION"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Levothyroxine 75mcg in the morning on empty stomach for Hypothyroidism",
+  "entities": [
+   {
+    "start": 4,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 38,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 60,
+    "end": 74,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Clopidogrel 75mg OD after MI",
+  "entities": [
+   {
+    "start": 4,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 20,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 21,
+    "end": 23,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 30,
+    "end": 32,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Cap Pregabalin 75mg twice daily for Neuropathic Pain",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 31,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 36,
+    "end": 52,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Inj Insulin Glargine 20 units subcut at bedtime",
+  "entities": [
+   {
+    "start": 4,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 29,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 30,
+    "end": 36,
+    "label": "ROUTE"
+   },
+   {
+    "start": 37,
+    "end": 47,
+    "label": "FREQUENCY"
+   }
+  ]
+ },
+ {
+  "text": "Tab Paracetamol 650mg TDS for 3 days for fever",
+  "entities": [
+   {
+    "start": 4,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 25,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 30,
+    "end": 36,
+    "label": "DURATION"
+   },
+   {
+    "start": 41,
+    "end": 46,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Atorvastatin 20mg HS for Hyperlipidemia",
+  "entities": [
+   {
+    "start": 4,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 24,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 29,
+    "end": 43,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Pantoprazole 40mg OD before breakfast for GERD",
+  "entities": [
+   {
+    "start": 4,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 24,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 46,
+    "end": 50,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Syp Salbutamol 5ml three times daily for 5 days",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 36,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 41,
+    "end": 47,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Azithromycin 500mg once daily for 3 days",
+  "entities": [
+   {
+    "start": 4,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 33,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 38,
+    "end": 44,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt has hypertension. Continue Amlodipine 5mg once daily.",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 30,
+    "end": 40,
+    "label": "DRUG"
+   },
+   {
+    "start": 41,
+    "end": 44,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 45,
+    "end": 55,
+    "label": "FREQUENCY"
+   }
+  ]
+ },
+ {
+  "text": "Tab Aspirin 75mg OD and Tab Atorvastatin 40mg HS",
+  "entities": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "DRUG"
+   },
+   {
+    "start": 12,
+    "end": 16,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 17,
+    "end": 19,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 28,
+    "end": 40,
+    "label": "DRUG"
+   },
+   {
+    "start": 41,
+    "end": 45,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 46,
+    "end": 48,
+    "label": "FREQUENCY"
+   }
+  ]
+ },
+ {
+  "text": "Inj Enoxaparin 40mg subcut once daily for DVT",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 26,
+    "label": "ROUTE"
+   },
+   {
+    "start": 27,
+    "end": 37,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 45,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Prednisolone 20mg once daily for 5 days for Asthma",
+  "entities": [
+   {
+    "start": 4,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 32,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 37,
+    "end": 43,
+    "label": "DURATION"
+   },
+   {
+    "start": 48,
+    "end": 54,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Cetirizine 10mg at bedtime for Allergic Rhinitis",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 35,
+    "end": 52,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Cap Omeprazole 20mg BD for 2 weeks",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 22,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 27,
+    "end": 34,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Losartan 50mg 1-0-1 for Hypertension",
+  "entities": [
+   {
+    "start": 4,
+    "end": 12,
+    "label": "DRUG"
+   },
+   {
+    "start": 13,
+    "end": 17,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 28,
+    "end": 40,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Ibuprofen 400mg SOS for pain",
+  "entities": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 23,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 28,
+    "end": 32,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Inj Diclofenac 75mg IM stat",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 22,
+    "label": "ROUTE"
+   },
+   {
+    "start": 23,
+    "end": 27,
+    "label": "FREQUENCY"
+   }
+  ]
+ },
+ {
+  "text": "Tab Ciprofloxacin 500mg every 12 hours for 7 days for Urinary Tract Infection",
+  "entities": [
+   {
+    "start": 4,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 38,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 43,
+    "end": 49,
+    "label": "DURATION"
+   },
+   {
+    "start": 54,
+    "end": 77,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Furosemide 40mg in the morning for Heart Failure",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 34,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 39,
+    "end": 52,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Gabapentin 300mg three times daily",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 20,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 21,
+    "end": 38,
+    "label": "FREQUENCY"
+   }
+  ]
+ },
+ {
+  "text": "Rx: Metoprolol 50mg PO BD",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 22,
+    "label": "ROUTE"
+   },
+   {
+    "start": 23,
+    "end": 25,
+    "label": "FREQUENCY"
+   }
+  ]
+ },
+ {
+  "text": "Tab Montelukast 10mg HS for Asthma",
+  "entities": [
+   {
+    "start": 4,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 20,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 21,
+    "end": 23,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 28,
+    "end": 34,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Doxycycline 100mg twice daily for 10 days",
+  "entities": [
+   {
+    "start": 4,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 33,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 38,
+    "end": 45,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Take Lisinopril 10mg once daily. History of diabetes.",
+  "entities": [
+   {
+    "start": 5,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 20,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 21,
+    "end": 31,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 44,
+    "end": 52,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Rosuvastatin 10 mg at bedtime",
+  "entities": [
+   {
+    "start": 4,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 33,
+    "label": "FREQUENCY"
+   }
+  ]
+ },
+ {
+  "text": "Tab Fluoxetine 20mg once daily for OCD",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 35,
+    "end": 38,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Cap Tamsulosin 0.4mg at bedtime for BPH",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 20,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 21,
+    "end": 31,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 36,
+    "end": 39,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Levofloxacin 750mg once daily for 5 days for pneumonia",
+  "entities": [
+   {
+    "start": 4,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 33,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 38,
+    "end": 44,
+    "label": "DURATION"
+   },
+   {
+    "start": 49,
+    "end": 58,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Methotrexate 15mg once weekly for Rheumatoid Arthritis",
+  "entities": [
+   {
+    "start": 4,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 33,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 38,
+    "end": 58,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Carvedilol 6.25mg BD for Heart Failure",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 24,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 29,
+    "end": 42,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Patient on Digoxin 0.25mg daily and Spironolactone 25mg daily",
+  "entities": [
+   {
+    "start": 11,
+    "end": 18,
+    "label": "DRUG"
+   },
+   {
+    "start": 19,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 31,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 36,
+    "end": 50,
+    "label": "DRUG"
+   },
+   {
+    "start": 51,
+    "end": 55,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 56,
+    "end": 61,
+    "label": "FREQUENCY"
+   }
+  ]
+ },
+ {
+  "text": "Tab Metronidazole 400mg TDS for 7 days",
+  "entities": [
+   {
+    "start": 4,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 27,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 38,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Inj Ondansetron 4mg IV SOS for nausea",
+  "entities": [
+   {
+    "start": 4,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 22,
+    "label": "ROUTE"
+   },
+   {
+    "start": 23,
+    "end": 26,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tab Lev0thyroxine 100mcg OD for hypothyroidism",
+  "entities": [
+   {
+    "start": 4,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 24,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 25,
+    "end": 27,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 46,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "TAB AMLODIPINE 10MG ONCE DAILY FOR HYPERTENSION",
+  "entities": [
+   {
+    "start": 4,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 35,
+    "end": 47,
+    "label": "CONDITION"
+   }
+  ]
+ }
+]

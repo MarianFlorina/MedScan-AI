@@ -1,0 +1,11 @@
+# Secrets / user data
+users.json
+audit_logs/
+# Environment & caches
+medscan_env/
+__pycache__/
+*.pyc
+# Generated
+fhir_bundle.json
+medication_*.json
+finetuned_model_v1_legacy/

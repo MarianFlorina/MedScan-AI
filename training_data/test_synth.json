@@ -1,0 +1,6537 @@
+[
+ {
+  "text": "R/ Insulin Lispro 100 mcg stat (14 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 39,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Agoraphobia - Empagliflozin-metformin 1000-25mg oral, before meals for 2 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 11,
+    "label": "CONDITION"
+   },
+   {
+    "start": 14,
+    "end": 37,
+    "label": "DRUG"
+   },
+   {
+    "start": 38,
+    "end": 47,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 48,
+    "end": 52,
+    "label": "ROUTE"
+   },
+   {
+    "start": 54,
+    "end": 66,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 71,
+    "end": 78,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Nizatidine 150mg every 12 hours. Add Fentanyl 100mcg TDS for Cervical Cancer.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 40,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 46,
+    "end": 54,
+    "label": "DRUG"
+   },
+   {
+    "start": 55,
+    "end": 61,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 62,
+    "end": 65,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 70,
+    "end": 85,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Erenumab 70mg once weekly. Add Paliperidone 6mg before meals for Post-traumatic Stress Disorder.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 34,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 40,
+    "end": 52,
+    "label": "DRUG"
+   },
+   {
+    "start": 53,
+    "end": 56,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 57,
+    "end": 69,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 74,
+    "end": 104,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Post-traumatic Stress Disorder; advised Capsule Crocin 650mg every 8 hours 7 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 37,
+    "label": "CONDITION"
+   },
+   {
+    "start": 55,
+    "end": 61,
+    "label": "DRUG"
+   },
+   {
+    "start": 62,
+    "end": 67,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 68,
+    "end": 81,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 82,
+    "end": 88,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Ceftazidime 2g twice daily (4 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 17,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 18,
+    "end": 29,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 31,
+    "end": 38,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Amitriptyline 75mg stat. Add Amlodipine 10mg BD for agoraphobia.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 22,
+    "label": "DRUG"
+   },
+   {
+    "start": 23,
+    "end": 27,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 28,
+    "end": 32,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 38,
+    "end": 48,
+    "label": "DRUG"
+   },
+   {
+    "start": 49,
+    "end": 53,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 54,
+    "end": 56,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 61,
+    "end": 72,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Post-traumatic Stress Disorder; advised Tab Hydralazine 50mg four times daily 3 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 37,
+    "label": "CONDITION"
+   },
+   {
+    "start": 51,
+    "end": 62,
+    "label": "DRUG"
+   },
+   {
+    "start": 63,
+    "end": 67,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 68,
+    "end": 84,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 85,
+    "end": 91,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Vasculitis - Carisoprodol 0.5g sublingual, 1-1-1 for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 10,
+    "label": "CONDITION"
+   },
+   {
+    "start": 13,
+    "end": 25,
+    "label": "DRUG"
+   },
+   {
+    "start": 26,
+    "end": 30,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 31,
+    "end": 41,
+    "label": "ROUTE"
+   },
+   {
+    "start": 43,
+    "end": 48,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 53,
+    "end": 60,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Hydralazine 25mg HS (5 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 22,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 24,
+    "end": 30,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Failure To Thrive - Ranitidine 75mg IM, four times daily for 3 months",
+  "entities": [
+   {
+    "start": 0,
+    "end": 17,
+    "label": "CONDITION"
+   },
+   {
+    "start": 20,
+    "end": 30,
+    "label": "DRUG"
+   },
+   {
+    "start": 31,
+    "end": 35,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 36,
+    "end": 38,
+    "label": "ROUTE"
+   },
+   {
+    "start": 40,
+    "end": 56,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 61,
+    "end": 69,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Amlodipine 10mg every 12 hours (6 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 33,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 35,
+    "end": 42,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "crohn's disease - Methyldopa 500mg inhaled, in the morning for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 18,
+    "end": 28,
+    "label": "DRUG"
+   },
+   {
+    "start": 29,
+    "end": 34,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 35,
+    "end": 42,
+    "label": "ROUTE"
+   },
+   {
+    "start": 44,
+    "end": 58,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 63,
+    "end": 70,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Tension Headache - Lisdexamfetamine 75mcg sublingual, stat for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 16,
+    "label": "CONDITION"
+   },
+   {
+    "start": 19,
+    "end": 35,
+    "label": "DRUG"
+   },
+   {
+    "start": 36,
+    "end": 41,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 42,
+    "end": 52,
+    "label": "ROUTE"
+   },
+   {
+    "start": 54,
+    "end": 58,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 63,
+    "end": 70,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue cefpodoxime 200mg in the morning. Add Amitriptyline 75mg BD for allergic.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 26,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 27,
+    "end": 41,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 47,
+    "end": 60,
+    "label": "DRUG"
+   },
+   {
+    "start": 61,
+    "end": 65,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 66,
+    "end": 68,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 73,
+    "end": 81,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o C Diff; advised Capsule Lisdexamfetamine 75mcg QID 3 months",
+  "entities": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 47,
+    "label": "DRUG"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 54,
+    "end": 57,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 58,
+    "end": 66,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Albuterol 4mg HS (3 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "DRUG"
+   },
+   {
+    "start": 13,
+    "end": 16,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 17,
+    "end": 19,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 21,
+    "end": 27,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Tension Headache; advised Cream Clonidine 0.2mg QID 6 months",
+  "entities": [
+   {
+    "start": 7,
+    "end": 23,
+    "label": "CONDITION"
+   },
+   {
+    "start": 39,
+    "end": 48,
+    "label": "DRUG"
+   },
+   {
+    "start": 49,
+    "end": 54,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 55,
+    "end": 58,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 59,
+    "end": 67,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Crocin 500mg once daily. Add Albuterol 4 mg twice daily for Vasculitis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 32,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 38,
+    "end": 47,
+    "label": "DRUG"
+   },
+   {
+    "start": 48,
+    "end": 52,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 53,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 69,
+    "end": 79,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "fibroids - Nizatidine 300 mg oral, as needed for 4 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "CONDITION"
+   },
+   {
+    "start": 11,
+    "end": 21,
+    "label": "DRUG"
+   },
+   {
+    "start": 22,
+    "end": 28,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 29,
+    "end": 33,
+    "label": "ROUTE"
+   },
+   {
+    "start": 35,
+    "end": 44,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 49,
+    "end": 56,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Bell's Palsy - Perampanel 4mg IV, twice daily for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 12,
+    "label": "CONDITION"
+   },
+   {
+    "start": 15,
+    "end": 25,
+    "label": "DRUG"
+   },
+   {
+    "start": 26,
+    "end": 29,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 30,
+    "end": 32,
+    "label": "ROUTE"
+   },
+   {
+    "start": 34,
+    "end": 45,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Valproate 75mcg once weekly (4 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "DRUG"
+   },
+   {
+    "start": 13,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 39,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o fibroids; advised Susp Sumatriptan 50mg every 8 hours 7 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 30,
+    "end": 41,
+    "label": "DRUG"
+   },
+   {
+    "start": 42,
+    "end": 46,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 47,
+    "end": 60,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 61,
+    "end": 67,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Gestational Diabetes - Meloxicam 15mg PO, HS for 7 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 20,
+    "label": "CONDITION"
+   },
+   {
+    "start": 23,
+    "end": 32,
+    "label": "DRUG"
+   },
+   {
+    "start": 33,
+    "end": 37,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 38,
+    "end": 40,
+    "label": "ROUTE"
+   },
+   {
+    "start": 42,
+    "end": 44,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 49,
+    "end": 55,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Nizatidine 150mg every 8 hours. Add Methyldopa 250mg after meals for nephritic syndrome.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 39,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 45,
+    "end": 55,
+    "label": "DRUG"
+   },
+   {
+    "start": 56,
+    "end": 61,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 62,
+    "end": 73,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 78,
+    "end": 96,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Bone Cancer - Valproate 500mg PO, once weekly for 14 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 11,
+    "label": "CONDITION"
+   },
+   {
+    "start": 14,
+    "end": 23,
+    "label": "DRUG"
+   },
+   {
+    "start": 24,
+    "end": 29,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 30,
+    "end": 32,
+    "label": "ROUTE"
+   },
+   {
+    "start": 34,
+    "end": 45,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Linezolid 600mg OD (14 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "DRUG"
+   },
+   {
+    "start": 13,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 21,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 23,
+    "end": 30,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Hydroxyzine 50mg as needed (10 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 29,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 31,
+    "end": 38,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Ceftazidime 2g in the morning. Add Fluoxetine 40mg every 12 hours for fibromyalgia.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 38,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 44,
+    "end": 54,
+    "label": "DRUG"
+   },
+   {
+    "start": 55,
+    "end": 59,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 60,
+    "end": 74,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 79,
+    "end": 91,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Failure To Thrive; advised Syrup Clonidine 0.3 mg TDS 6 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 24,
+    "label": "CONDITION"
+   },
+   {
+    "start": 40,
+    "end": 49,
+    "label": "DRUG"
+   },
+   {
+    "start": 50,
+    "end": 56,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 57,
+    "end": 60,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 61,
+    "end": 68,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Crocin 20 units once daily (14 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 9,
+    "label": "DRUG"
+   },
+   {
+    "start": 10,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 29,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 31,
+    "end": 38,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Chronic Obstructive Pulmonary Disease; advised Inj Linezolid 5ml four times daily 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 44,
+    "label": "CONDITION"
+   },
+   {
+    "start": 58,
+    "end": 67,
+    "label": "DRUG"
+   },
+   {
+    "start": 68,
+    "end": 71,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 72,
+    "end": 88,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 89,
+    "end": 96,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Herniated Disc - tobramycin 40mg subcut, 1-0-1 for 6 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 14,
+    "label": "CONDITION"
+   },
+   {
+    "start": 17,
+    "end": 27,
+    "label": "DRUG"
+   },
+   {
+    "start": 28,
+    "end": 32,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 33,
+    "end": 39,
+    "label": "ROUTE"
+   },
+   {
+    "start": 41,
+    "end": 46,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 51,
+    "end": 58,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Insulin Lispro varies once weekly. Add Ampicillin 250 mg every 8 hours for agoraphobia.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 23,
+    "label": "DRUG"
+   },
+   {
+    "start": 24,
+    "end": 30,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 31,
+    "end": 42,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 48,
+    "end": 58,
+    "label": "DRUG"
+   },
+   {
+    "start": 59,
+    "end": 65,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 66,
+    "end": 79,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 84,
+    "end": 95,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Albuterol 2mg after meals (14 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "DRUG"
+   },
+   {
+    "start": 13,
+    "end": 16,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 17,
+    "end": 28,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 30,
+    "end": 37,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Crocin 650mg after meals. Add amlodipine 10mg in the morning for Tuberculosis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 33,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 39,
+    "end": 49,
+    "label": "DRUG"
+   },
+   {
+    "start": 50,
+    "end": 54,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 55,
+    "end": 69,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 74,
+    "end": 86,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Crocin 650mg every 12 hours (14 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 9,
+    "label": "DRUG"
+   },
+   {
+    "start": 10,
+    "end": 15,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 16,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 39,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Ceftazidime 1g once weekly. Add Hydralazine 25mg every 6 hours for Fibroids.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 35,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 41,
+    "end": 52,
+    "label": "DRUG"
+   },
+   {
+    "start": 53,
+    "end": 57,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 58,
+    "end": 71,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 76,
+    "end": 84,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Vilazodone 40mg BD (3 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 21,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 23,
+    "end": 29,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Lithium 600mg stat. Add Nizatidine 300mg once daily for gestational diabetes.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 27,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 33,
+    "end": 43,
+    "label": "DRUG"
+   },
+   {
+    "start": 44,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 60,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 85,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Fentanyl 100mcg 1-1-1. Add Cefpodoxime 100mg four times daily for Duodenal Ulcer.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 24,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 25,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 36,
+    "end": 47,
+    "label": "DRUG"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 54,
+    "end": 70,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 75,
+    "end": 89,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Amitriptyline 0.5g every 8 hours. Add Fosfomycin 5ml QID for duodenal ulcer.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 22,
+    "label": "DRUG"
+   },
+   {
+    "start": 23,
+    "end": 27,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 28,
+    "end": 41,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 47,
+    "end": 57,
+    "label": "DRUG"
+   },
+   {
+    "start": 58,
+    "end": 61,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 62,
+    "end": 65,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 70,
+    "end": 84,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o lyme disease; advised Gel Shelcal 500mg before meals 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 33,
+    "end": 40,
+    "label": "DRUG"
+   },
+   {
+    "start": 41,
+    "end": 46,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 47,
+    "end": 59,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 60,
+    "end": 67,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o hepatitis; advised Tablet Vortioxetine 5mg 1-0-1 5 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 16,
+    "label": "CONDITION"
+   },
+   {
+    "start": 33,
+    "end": 45,
+    "label": "DRUG"
+   },
+   {
+    "start": 46,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 55,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 56,
+    "end": 62,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Fibroids - Meloxicam 15mg inhaled, every 6 hours for 6 months",
+  "entities": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "CONDITION"
+   },
+   {
+    "start": 11,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 33,
+    "label": "ROUTE"
+   },
+   {
+    "start": 35,
+    "end": 48,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 53,
+    "end": 61,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Vortioxetine 15mg once daily (7 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 20,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 21,
+    "end": 31,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 33,
+    "end": 39,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "fibromyalgia - Meperidine 10ml PO, 1-1-1 for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 12,
+    "label": "CONDITION"
+   },
+   {
+    "start": 15,
+    "end": 25,
+    "label": "DRUG"
+   },
+   {
+    "start": 26,
+    "end": 30,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 31,
+    "end": 33,
+    "label": "ROUTE"
+   },
+   {
+    "start": 35,
+    "end": 40,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 45,
+    "end": 52,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Amphetamine 30mg QID (6 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 23,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 25,
+    "end": 32,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Empagliflozin-metformin 2g once daily (14 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 26,
+    "label": "DRUG"
+   },
+   {
+    "start": 27,
+    "end": 29,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 30,
+    "end": 40,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 49,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Fosfomycin 3g every 12 hours. Add Methyldopa 500mg stat for allergic reaction.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 37,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 43,
+    "end": 53,
+    "label": "DRUG"
+   },
+   {
+    "start": 54,
+    "end": 59,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 60,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 69,
+    "end": 86,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Gastric Ulcer; advised Inj Tramadol 75mcg after meals 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 20,
+    "label": "CONDITION"
+   },
+   {
+    "start": 34,
+    "end": 42,
+    "label": "DRUG"
+   },
+   {
+    "start": 43,
+    "end": 48,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 49,
+    "end": 60,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 61,
+    "end": 68,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Allergic - Nitrofurantoin 100mg oral, stat for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "CONDITION"
+   },
+   {
+    "start": 11,
+    "end": 25,
+    "label": "DRUG"
+   },
+   {
+    "start": 26,
+    "end": 31,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 32,
+    "end": 36,
+    "label": "ROUTE"
+   },
+   {
+    "start": 38,
+    "end": 42,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 47,
+    "end": 54,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Carisoprodol 350mg TDS (3 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 25,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 27,
+    "end": 33,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Imipenem 500mg 1-1-1. Add Ceftazidime 500 mg before meals for vasculitis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 29,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 35,
+    "end": 46,
+    "label": "DRUG"
+   },
+   {
+    "start": 47,
+    "end": 53,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 54,
+    "end": 66,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 71,
+    "end": 81,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Agoraphobia - captopril 50mg IV, SOS for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 11,
+    "label": "CONDITION"
+   },
+   {
+    "start": 14,
+    "end": 23,
+    "label": "DRUG"
+   },
+   {
+    "start": 24,
+    "end": 28,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 29,
+    "end": 31,
+    "label": "ROUTE"
+   },
+   {
+    "start": 33,
+    "end": 36,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 41,
+    "end": 48,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Fluoxetine 10mg twice daily (14 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 39,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Acidosis - Methyldopa 250mg SC, four times daily for 5 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "CONDITION"
+   },
+   {
+    "start": 11,
+    "end": 21,
+    "label": "DRUG"
+   },
+   {
+    "start": 22,
+    "end": 27,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 28,
+    "end": 30,
+    "label": "ROUTE"
+   },
+   {
+    "start": 32,
+    "end": 48,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 53,
+    "end": 59,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Bipolar Ii; advised Inj crocin 500mg every 6 hours 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 17,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "label": "DRUG"
+   },
+   {
+    "start": 38,
+    "end": 43,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 44,
+    "end": 57,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 58,
+    "end": 65,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Vardenafil 20mg HS. Add Vardenafil 10mg once weekly for Tonsillitis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 24,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 25,
+    "end": 27,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 33,
+    "end": 43,
+    "label": "DRUG"
+   },
+   {
+    "start": 44,
+    "end": 48,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 49,
+    "end": 60,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 76,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Empagliflozin-metformin 1000-25mg SOS. Add Galcanezumab 120mg every 12 hours for Tension Headache.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 32,
+    "label": "DRUG"
+   },
+   {
+    "start": 33,
+    "end": 42,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 43,
+    "end": 46,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 52,
+    "end": 64,
+    "label": "DRUG"
+   },
+   {
+    "start": 65,
+    "end": 70,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 71,
+    "end": 85,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 90,
+    "end": 106,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Meperidine 50mg once weekly. Add Vilazodone 5mg BD for Parkinson's Disease.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 24,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 25,
+    "end": 36,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 52,
+    "label": "DRUG"
+   },
+   {
+    "start": 53,
+    "end": 56,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 57,
+    "end": 59,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 64,
+    "end": 83,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Aids - Tobramycin 80mg sublingual, once weekly for 7 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 4,
+    "label": "CONDITION"
+   },
+   {
+    "start": 7,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 33,
+    "label": "ROUTE"
+   },
+   {
+    "start": 35,
+    "end": 46,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 51,
+    "end": 57,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o gastric ulcer; advised Syrup Sumatriptan 50mg SOS 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 20,
+    "label": "CONDITION"
+   },
+   {
+    "start": 36,
+    "end": 47,
+    "label": "DRUG"
+   },
+   {
+    "start": 48,
+    "end": 52,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 53,
+    "end": 56,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 57,
+    "end": 64,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Hepatitis; advised Syp Nitrofurantoin 50mg once daily 6 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 16,
+    "label": "CONDITION"
+   },
+   {
+    "start": 30,
+    "end": 44,
+    "label": "DRUG"
+   },
+   {
+    "start": 45,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 60,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 61,
+    "end": 68,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Amenorrhea; advised Inj Imipenem 250mg before meals 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 17,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 39,
+    "label": "DRUG"
+   },
+   {
+    "start": 40,
+    "end": 45,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 46,
+    "end": 58,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 59,
+    "end": 66,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "tension headache - Captopril 50mg SC, TDS for 4 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 16,
+    "label": "CONDITION"
+   },
+   {
+    "start": 19,
+    "end": 28,
+    "label": "DRUG"
+   },
+   {
+    "start": 29,
+    "end": 33,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 34,
+    "end": 36,
+    "label": "ROUTE"
+   },
+   {
+    "start": 38,
+    "end": 41,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 46,
+    "end": 53,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Herniated Disc; advised Tablet Methyldopa 500mg once daily 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 21,
+    "label": "CONDITION"
+   },
+   {
+    "start": 38,
+    "end": 48,
+    "label": "DRUG"
+   },
+   {
+    "start": 49,
+    "end": 54,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 55,
+    "end": 65,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 66,
+    "end": 73,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Sumatriptan 1 tablet in the morning (3 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 38,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 40,
+    "end": 46,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Insulin Lispro 10ml in the morning. Add Fosfomycin 1g QID for Bell's Palsy.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 23,
+    "label": "DRUG"
+   },
+   {
+    "start": 24,
+    "end": 28,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 29,
+    "end": 43,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 49,
+    "end": 59,
+    "label": "DRUG"
+   },
+   {
+    "start": 60,
+    "end": 62,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 63,
+    "end": 66,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 71,
+    "end": 83,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Duodenal Ulcer - Methyldopa 250mg oral, 1-0-1 for 7 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 14,
+    "label": "CONDITION"
+   },
+   {
+    "start": 17,
+    "end": 27,
+    "label": "DRUG"
+   },
+   {
+    "start": 28,
+    "end": 33,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 34,
+    "end": 38,
+    "label": "ROUTE"
+   },
+   {
+    "start": 40,
+    "end": 45,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 50,
+    "end": 56,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Finasteride 1mg every 12 hours. Add Cefpodoxime 200mg every 6 hours for Food Allergy.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 24,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 25,
+    "end": 39,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 45,
+    "end": 56,
+    "label": "DRUG"
+   },
+   {
+    "start": 57,
+    "end": 62,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 63,
+    "end": 76,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 81,
+    "end": 93,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Atenolol 25mg BD. Add Amitriptyline 50mg every 12 hours for herpes simplex.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 25,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 31,
+    "end": 44,
+    "label": "DRUG"
+   },
+   {
+    "start": 45,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 69,
+    "end": 83,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Erenumab 70mg after meals. Add Sitagliptin-metformin 1000-50mg in the morning for pcos.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 34,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 40,
+    "end": 61,
+    "label": "DRUG"
+   },
+   {
+    "start": 62,
+    "end": 71,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 72,
+    "end": 86,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 91,
+    "end": 95,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Fentanyl 0.5g 1-0-1. Add Tramadol 50mg 1-1-1 for Bell's Palsy.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 28,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 34,
+    "end": 42,
+    "label": "DRUG"
+   },
+   {
+    "start": 43,
+    "end": 47,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 58,
+    "end": 70,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Fibromyalgia; advised Susp Vardenafil 20mg 1-0-1 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 34,
+    "end": 44,
+    "label": "DRUG"
+   },
+   {
+    "start": 45,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 55,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 56,
+    "end": 63,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "allergic reaction - Perampanel 12mg IM, in the morning for 7 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 17,
+    "label": "CONDITION"
+   },
+   {
+    "start": 20,
+    "end": 30,
+    "label": "DRUG"
+   },
+   {
+    "start": 31,
+    "end": 35,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 36,
+    "end": 38,
+    "label": "ROUTE"
+   },
+   {
+    "start": 40,
+    "end": 54,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 59,
+    "end": 65,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Erenumab 70mg once weekly. Add Methyldopa 500mg stat for Vasculitis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 34,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 40,
+    "end": 50,
+    "label": "DRUG"
+   },
+   {
+    "start": 51,
+    "end": 56,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 57,
+    "end": 61,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 66,
+    "end": 76,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Vardenafil 20mg in the morning. Add Lisdexamfetamine 50mg after meals for tonsillitis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 24,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 25,
+    "end": 39,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 45,
+    "end": 61,
+    "label": "DRUG"
+   },
+   {
+    "start": 62,
+    "end": 66,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 67,
+    "end": 78,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 83,
+    "end": 94,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Methotrexate 10mg twice daily (4 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 20,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 21,
+    "end": 32,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 34,
+    "end": 41,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Failure To Thrive; advised Susp Diclofenac 100 mcg four times daily 7 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 24,
+    "label": "CONDITION"
+   },
+   {
+    "start": 39,
+    "end": 49,
+    "label": "DRUG"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 58,
+    "end": 74,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 75,
+    "end": 81,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Carisoprodol 1g stat. Add amphetamine 5mg in the morning for Cervical Cancer.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 21,
+    "label": "DRUG"
+   },
+   {
+    "start": 22,
+    "end": 24,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 25,
+    "end": 29,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 35,
+    "end": 46,
+    "label": "DRUG"
+   },
+   {
+    "start": 47,
+    "end": 50,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 51,
+    "end": 65,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 70,
+    "end": 85,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Bone Cancer; advised Syrup Ceftazidime 2g twice daily 7 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 18,
+    "label": "CONDITION"
+   },
+   {
+    "start": 34,
+    "end": 45,
+    "label": "DRUG"
+   },
+   {
+    "start": 46,
+    "end": 48,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 49,
+    "end": 60,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 61,
+    "end": 67,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Duodenal Ulcer; advised Capsule empagliflozin-metformin 500-10mg at bedtime 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 21,
+    "label": "CONDITION"
+   },
+   {
+    "start": 39,
+    "end": 62,
+    "label": "DRUG"
+   },
+   {
+    "start": 63,
+    "end": 71,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 72,
+    "end": 82,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 83,
+    "end": 90,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o gastric ulcer; advised Tab Vardenafil 10ml once weekly 3 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 20,
+    "label": "CONDITION"
+   },
+   {
+    "start": 34,
+    "end": 44,
+    "label": "DRUG"
+   },
+   {
+    "start": 45,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 61,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 62,
+    "end": 68,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Gastric Ulcer - Carisoprodol 2 puffs sublingual, in the morning for 6 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 13,
+    "label": "CONDITION"
+   },
+   {
+    "start": 16,
+    "end": 28,
+    "label": "DRUG"
+   },
+   {
+    "start": 29,
+    "end": 36,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 37,
+    "end": 47,
+    "label": "ROUTE"
+   },
+   {
+    "start": 49,
+    "end": 63,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 68,
+    "end": 75,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Tension Headache; advised Tablet erenumab 70mg TDS 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 23,
+    "label": "CONDITION"
+   },
+   {
+    "start": 40,
+    "end": 48,
+    "label": "DRUG"
+   },
+   {
+    "start": 49,
+    "end": 53,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 54,
+    "end": 57,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 58,
+    "end": 65,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o nephritic syndrome; advised Gel meloxicam 7.5mg stat 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 25,
+    "label": "CONDITION"
+   },
+   {
+    "start": 39,
+    "end": 48,
+    "label": "DRUG"
+   },
+   {
+    "start": 49,
+    "end": 54,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 55,
+    "end": 59,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 60,
+    "end": 67,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Fibromyalgia; advised Tablet Crocin 5ml after meals 3 months",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 36,
+    "end": 42,
+    "label": "DRUG"
+   },
+   {
+    "start": 43,
+    "end": 46,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 47,
+    "end": 58,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 59,
+    "end": 67,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Sciatica - Lisdexamfetamine 50mg subcut, at bedtime for 6 months",
+  "entities": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "CONDITION"
+   },
+   {
+    "start": 11,
+    "end": 27,
+    "label": "DRUG"
+   },
+   {
+    "start": 28,
+    "end": 32,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 33,
+    "end": 39,
+    "label": "ROUTE"
+   },
+   {
+    "start": 41,
+    "end": 51,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 56,
+    "end": 64,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Herpes Zoster; advised Susp Meperidine 50mg every 6 hours 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 20,
+    "label": "CONDITION"
+   },
+   {
+    "start": 35,
+    "end": 45,
+    "label": "DRUG"
+   },
+   {
+    "start": 46,
+    "end": 50,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 51,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 72,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o vasculitis; advised Tab Galcanezumab 240mg BD 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 17,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 43,
+    "label": "DRUG"
+   },
+   {
+    "start": 44,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 52,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 53,
+    "end": 60,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Lung Cancer; advised Capsule Lisdexamfetamine 20 units OD 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 18,
+    "label": "CONDITION"
+   },
+   {
+    "start": 36,
+    "end": 52,
+    "label": "DRUG"
+   },
+   {
+    "start": 53,
+    "end": 61,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 62,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 72,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Herpes Zoster - Lisdexamfetamine 100 mcg inhaled, HS for 6 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 13,
+    "label": "CONDITION"
+   },
+   {
+    "start": 16,
+    "end": 32,
+    "label": "DRUG"
+   },
+   {
+    "start": 33,
+    "end": 40,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 41,
+    "end": 48,
+    "label": "ROUTE"
+   },
+   {
+    "start": 50,
+    "end": 52,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 57,
+    "end": 64,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Shelcal 500mg before meals. Add Erenumab 70mg 1-0-1 for Herpes Simplex.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 35,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 41,
+    "end": 49,
+    "label": "DRUG"
+   },
+   {
+    "start": 50,
+    "end": 54,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 55,
+    "end": 60,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 79,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o psoriasis; advised Tablet Imipenem 250mg three times daily 2 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 16,
+    "label": "CONDITION"
+   },
+   {
+    "start": 33,
+    "end": 41,
+    "label": "DRUG"
+   },
+   {
+    "start": 42,
+    "end": 47,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 48,
+    "end": 65,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 66,
+    "end": 73,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Imipenem 500mg HS. Add Nizatidine 300mg SOS for Pcos.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 26,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 42,
+    "label": "DRUG"
+   },
+   {
+    "start": 43,
+    "end": 48,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 49,
+    "end": 52,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 57,
+    "end": 61,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Crohn's Disease; advised Syrup diclofenac 75mcg once daily 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 22,
+    "label": "CONDITION"
+   },
+   {
+    "start": 38,
+    "end": 48,
+    "label": "DRUG"
+   },
+   {
+    "start": 49,
+    "end": 54,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 55,
+    "end": 65,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 66,
+    "end": 73,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Sumatriptan 25mg BD (4 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 14,
+    "label": "DRUG"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 22,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 24,
+    "end": 31,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Amenorrhea; advised Tab Ranitidine 75mg 1-0-1 3 months",
+  "entities": [
+   {
+    "start": 7,
+    "end": 17,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 41,
+    "label": "DRUG"
+   },
+   {
+    "start": 42,
+    "end": 46,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 47,
+    "end": 52,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 53,
+    "end": 61,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Captopril 50mg as needed (5 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "DRUG"
+   },
+   {
+    "start": 13,
+    "end": 17,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 18,
+    "end": 27,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 29,
+    "end": 35,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Atenolol 50mg SOS. Add Fluoxetine 40mg every 12 hours for Post-traumatic Stress Disorder.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 26,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 42,
+    "label": "DRUG"
+   },
+   {
+    "start": 43,
+    "end": 47,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 48,
+    "end": 62,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 67,
+    "end": 97,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Post-traumatic Stress Disorder - nizatidine 150mg inhaled, at bedtime for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 30,
+    "label": "CONDITION"
+   },
+   {
+    "start": 33,
+    "end": 43,
+    "label": "DRUG"
+   },
+   {
+    "start": 44,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "label": "ROUTE"
+   },
+   {
+    "start": 59,
+    "end": 69,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 74,
+    "end": 81,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Diclofenac 100mg four times daily. Add Insulin Lispro varies as needed for Psoriatic Arthritis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 42,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 48,
+    "end": 62,
+    "label": "DRUG"
+   },
+   {
+    "start": 63,
+    "end": 69,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 70,
+    "end": 79,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 84,
+    "end": 103,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Brain Tumor - Amlodipine 10mg inhaled, OD for 4 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 11,
+    "label": "CONDITION"
+   },
+   {
+    "start": 14,
+    "end": 24,
+    "label": "DRUG"
+   },
+   {
+    "start": 25,
+    "end": 29,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 30,
+    "end": 37,
+    "label": "ROUTE"
+   },
+   {
+    "start": 39,
+    "end": 41,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 46,
+    "end": 53,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "duodenal ulcer - Diclofenac 100mg PO, four times daily for 5 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 14,
+    "label": "CONDITION"
+   },
+   {
+    "start": 17,
+    "end": 27,
+    "label": "DRUG"
+   },
+   {
+    "start": 28,
+    "end": 33,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 34,
+    "end": 36,
+    "label": "ROUTE"
+   },
+   {
+    "start": 38,
+    "end": 54,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 59,
+    "end": 65,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Methyldopa 250 mg as needed. Add Albuterol 90mcg_inhaler at bedtime for Liver Cancer.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 26,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 27,
+    "end": 36,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 51,
+    "label": "DRUG"
+   },
+   {
+    "start": 52,
+    "end": 65,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 66,
+    "end": 76,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 81,
+    "end": 93,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Meloxicam 15mg TDS. Add Nitrofurantoin 50mg every 8 hours for C Diff.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 18,
+    "label": "DRUG"
+   },
+   {
+    "start": 19,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 27,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 33,
+    "end": 47,
+    "label": "DRUG"
+   },
+   {
+    "start": 48,
+    "end": 52,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 53,
+    "end": 66,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 71,
+    "end": 77,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Perampanel 8mg once daily (6 months)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 17,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 18,
+    "end": 28,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 30,
+    "end": 38,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Albuterol 90mcg_inhaler QID. Add Citalopram 10mg three times daily for Gestational Diabetes.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 18,
+    "label": "DRUG"
+   },
+   {
+    "start": 19,
+    "end": 32,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 33,
+    "end": 36,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 52,
+    "label": "DRUG"
+   },
+   {
+    "start": 53,
+    "end": 57,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 58,
+    "end": 75,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 80,
+    "end": 100,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Methyldopa 250mg once weekly. Add Diclofenac 25mg twice daily for Liver Cancer.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 37,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 43,
+    "end": 53,
+    "label": "DRUG"
+   },
+   {
+    "start": 54,
+    "end": 58,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 59,
+    "end": 70,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 75,
+    "end": 87,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Vilazodone 5mg once weekly. Add Sitagliptin-metformin 1000-50mg in the morning for Acidosis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 35,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 41,
+    "end": 62,
+    "label": "DRUG"
+   },
+   {
+    "start": 63,
+    "end": 72,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 73,
+    "end": 87,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 92,
+    "end": 100,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Gestational Diabetes; advised Susp Valproate 125mg QID 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 27,
+    "label": "CONDITION"
+   },
+   {
+    "start": 42,
+    "end": 51,
+    "label": "DRUG"
+   },
+   {
+    "start": 52,
+    "end": 57,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 58,
+    "end": 61,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 62,
+    "end": 69,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Sciatica; advised Capsule Shelcal 500mg stat 3 months",
+  "entities": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 33,
+    "end": 40,
+    "label": "DRUG"
+   },
+   {
+    "start": 41,
+    "end": 46,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 47,
+    "end": 51,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 52,
+    "end": 60,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Shelcal 500mg after meals. Add Clonidine 0.2mg TDS for Urticaria.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 34,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 40,
+    "end": 49,
+    "label": "DRUG"
+   },
+   {
+    "start": 50,
+    "end": 55,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 56,
+    "end": 59,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 64,
+    "end": 73,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Parkinson's Disease; advised Inj lisdexamfetamine 40mg OD 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 26,
+    "label": "CONDITION"
+   },
+   {
+    "start": 40,
+    "end": 56,
+    "label": "DRUG"
+   },
+   {
+    "start": 57,
+    "end": 61,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 62,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 72,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Liver Cancer - Citalopram 1 tablet PO, twice daily for 3 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 12,
+    "label": "CONDITION"
+   },
+   {
+    "start": 15,
+    "end": 25,
+    "label": "DRUG"
+   },
+   {
+    "start": 26,
+    "end": 34,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 35,
+    "end": 37,
+    "label": "ROUTE"
+   },
+   {
+    "start": 39,
+    "end": 50,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 55,
+    "end": 61,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Sciatica; advised Tab Amphetamine 20 units three times daily 3 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 29,
+    "end": 40,
+    "label": "DRUG"
+   },
+   {
+    "start": 41,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 67,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 68,
+    "end": 74,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Amlodipine 5mg HS (10 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 17,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 18,
+    "end": 20,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 22,
+    "end": 29,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Paliperidone 1.5mg every 6 hours (6 months)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 35,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 37,
+    "end": 45,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Cefpodoxime 100 mg four times daily. Add Lithium 150mg before meals for Bell's Palsy.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 27,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 28,
+    "end": 44,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "label": "DRUG"
+   },
+   {
+    "start": 58,
+    "end": 63,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 64,
+    "end": 76,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 81,
+    "end": 93,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Tension Headache - Ranitidine 150mg IM, 1-0-1 for 14 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 16,
+    "label": "CONDITION"
+   },
+   {
+    "start": 19,
+    "end": 29,
+    "label": "DRUG"
+   },
+   {
+    "start": 30,
+    "end": 35,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 36,
+    "end": 38,
+    "label": "ROUTE"
+   },
+   {
+    "start": 40,
+    "end": 45,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Meniere's Disease; advised Tab Empagliflozin-metformin 1000-25mg once weekly 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 24,
+    "label": "CONDITION"
+   },
+   {
+    "start": 38,
+    "end": 61,
+    "label": "DRUG"
+   },
+   {
+    "start": 62,
+    "end": 71,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 72,
+    "end": 83,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 84,
+    "end": 91,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue fluoxetine 20mg SOS. Add Finasteride 1mg HS for lyme disease.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 24,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 25,
+    "end": 28,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 34,
+    "end": 45,
+    "label": "DRUG"
+   },
+   {
+    "start": 46,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 52,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 57,
+    "end": 69,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Ceftazidime 1g every 8 hours. Add Hydralazine 10mg in the morning for Amenorrhea.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 37,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 43,
+    "end": 54,
+    "label": "DRUG"
+   },
+   {
+    "start": 55,
+    "end": 59,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 60,
+    "end": 74,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 79,
+    "end": 89,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Galcanezumab 120mg BD (10 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 24,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 26,
+    "end": 33,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Vilazodone 10mg every 12 hours (6 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 33,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 35,
+    "end": 42,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "sciatica - Amlodipine 10 mg inhaled, at bedtime for 3 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "CONDITION"
+   },
+   {
+    "start": 11,
+    "end": 21,
+    "label": "DRUG"
+   },
+   {
+    "start": 22,
+    "end": 27,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 28,
+    "end": 35,
+    "label": "ROUTE"
+   },
+   {
+    "start": 37,
+    "end": 47,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 52,
+    "end": 58,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Hepatitis - Dexlansoprazole 60mg SC, as needed for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "CONDITION"
+   },
+   {
+    "start": 12,
+    "end": 27,
+    "label": "DRUG"
+   },
+   {
+    "start": 28,
+    "end": 32,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 33,
+    "end": 35,
+    "label": "ROUTE"
+   },
+   {
+    "start": 37,
+    "end": 46,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 51,
+    "end": 58,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Herniated Disc; advised Cap Valproate 250mg every 6 hours 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 21,
+    "label": "CONDITION"
+   },
+   {
+    "start": 35,
+    "end": 44,
+    "label": "DRUG"
+   },
+   {
+    "start": 45,
+    "end": 50,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 51,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 72,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Gestational Diabetes - fentanyl 25mcg IM, three times daily for 6 months",
+  "entities": [
+   {
+    "start": 0,
+    "end": 20,
+    "label": "CONDITION"
+   },
+   {
+    "start": 23,
+    "end": 31,
+    "label": "DRUG"
+   },
+   {
+    "start": 32,
+    "end": 37,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 38,
+    "end": 40,
+    "label": "ROUTE"
+   },
+   {
+    "start": 42,
+    "end": 59,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 64,
+    "end": 72,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Lisdexamfetamine 70 mg in the morning (6 months)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 40,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 50,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Ceftazidime 500mg at bedtime. Add diclofenac 75mg three times daily for Sickle Cell Disease.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 26,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 27,
+    "end": 37,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 43,
+    "end": 53,
+    "label": "DRUG"
+   },
+   {
+    "start": 54,
+    "end": 58,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 59,
+    "end": 76,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 81,
+    "end": 100,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Fentanyl 25mcg four times daily. Add Amitriptyline 10mg 1-0-1 for Meniere's Disease.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 40,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 46,
+    "end": 59,
+    "label": "DRUG"
+   },
+   {
+    "start": 60,
+    "end": 64,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 65,
+    "end": 70,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 75,
+    "end": 92,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Perampanel 20 units at bedtime. Add Amitriptyline 75mg 1-1-1 for Psoriasis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 28,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 29,
+    "end": 39,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 45,
+    "end": 58,
+    "label": "DRUG"
+   },
+   {
+    "start": 59,
+    "end": 63,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 64,
+    "end": 69,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 74,
+    "end": 83,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Liver Cancer; advised Tablet Methotrexate 15mg twice daily 7 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 36,
+    "end": 48,
+    "label": "DRUG"
+   },
+   {
+    "start": 49,
+    "end": 53,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 54,
+    "end": 65,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 66,
+    "end": 72,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o cervical cancer; advised Tablet Atenolol 100mg SOS 6 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 22,
+    "label": "CONDITION"
+   },
+   {
+    "start": 39,
+    "end": 47,
+    "label": "DRUG"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 54,
+    "end": 57,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 58,
+    "end": 65,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Aids - Methotrexate 7.5 mg SC, four times daily for 3 months",
+  "entities": [
+   {
+    "start": 0,
+    "end": 4,
+    "label": "CONDITION"
+   },
+   {
+    "start": 7,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 26,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 27,
+    "end": 29,
+    "label": "ROUTE"
+   },
+   {
+    "start": 31,
+    "end": 47,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 52,
+    "end": 60,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Crohn's Disease; advised Syrup Captopril 50 mg SOS 2 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 22,
+    "label": "CONDITION"
+   },
+   {
+    "start": 38,
+    "end": 47,
+    "label": "DRUG"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 54,
+    "end": 57,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 58,
+    "end": 65,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Bipolar Ii - Atenolol 50 mg SC, before meals for 6 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 10,
+    "label": "CONDITION"
+   },
+   {
+    "start": 13,
+    "end": 21,
+    "label": "DRUG"
+   },
+   {
+    "start": 22,
+    "end": 27,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 28,
+    "end": 30,
+    "label": "ROUTE"
+   },
+   {
+    "start": 32,
+    "end": 44,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 49,
+    "end": 56,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Sciatica - Meloxicam 7.5mg sublingual, before meals for 6 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "CONDITION"
+   },
+   {
+    "start": 11,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 26,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 27,
+    "end": 37,
+    "label": "ROUTE"
+   },
+   {
+    "start": 39,
+    "end": 51,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 56,
+    "end": 63,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Hepatitis - Tobramycin 5ml IV, once daily for 14 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "CONDITION"
+   },
+   {
+    "start": 12,
+    "end": 22,
+    "label": "DRUG"
+   },
+   {
+    "start": 23,
+    "end": 26,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 27,
+    "end": 29,
+    "label": "ROUTE"
+   },
+   {
+    "start": 31,
+    "end": 41,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 46,
+    "end": 53,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Vardenafil 5mg at bedtime (6 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 17,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 18,
+    "end": 28,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 30,
+    "end": 37,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Allergic; advised Syrup imipenem 500mg three times daily 3 months",
+  "entities": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 39,
+    "label": "DRUG"
+   },
+   {
+    "start": 40,
+    "end": 45,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 46,
+    "end": 63,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 64,
+    "end": 72,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Atenolol 100mg OD. Add Methyldopa 500mg twice daily for Brain Tumor.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 26,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 42,
+    "label": "DRUG"
+   },
+   {
+    "start": 43,
+    "end": 48,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 49,
+    "end": 60,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 76,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Bipolar Ii; advised Gel Lisdexamfetamine 50mg after meals 6 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 17,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 47,
+    "label": "DRUG"
+   },
+   {
+    "start": 48,
+    "end": 52,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 53,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 72,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Food Allergy; advised Cap Vortioxetine 10mg before meals 10 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 33,
+    "end": 45,
+    "label": "DRUG"
+   },
+   {
+    "start": 46,
+    "end": 50,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 51,
+    "end": 63,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 64,
+    "end": 71,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Lung Cancer; advised Syrup Albuterol 90mcg_inhaler stat 6 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 18,
+    "label": "CONDITION"
+   },
+   {
+    "start": 34,
+    "end": 43,
+    "label": "DRUG"
+   },
+   {
+    "start": 44,
+    "end": 57,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 58,
+    "end": 62,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 63,
+    "end": 70,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Food Allergy; advised Cap Amitriptyline 10mg OD 2 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 33,
+    "end": 46,
+    "label": "DRUG"
+   },
+   {
+    "start": 47,
+    "end": 51,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 52,
+    "end": 54,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 55,
+    "end": 62,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Allergic; advised Syrup Vilazodone 10mg four times daily 3 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 41,
+    "label": "DRUG"
+   },
+   {
+    "start": 42,
+    "end": 46,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 47,
+    "end": 63,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 64,
+    "end": 70,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Fentanyl 25mcg at bedtime. Add Meperidine 75mcg after meals for Chronic Obstructive Pulmonary Disease.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 34,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 40,
+    "end": 50,
+    "label": "DRUG"
+   },
+   {
+    "start": 51,
+    "end": 56,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 57,
+    "end": 68,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 73,
+    "end": 110,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Shelcal 500mg SOS (6 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 10,
+    "label": "DRUG"
+   },
+   {
+    "start": 11,
+    "end": 16,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 17,
+    "end": 20,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 22,
+    "end": 29,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Amenorrhea; advised Tab Sumatriptan 20 units SOS 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 17,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 42,
+    "label": "DRUG"
+   },
+   {
+    "start": 43,
+    "end": 51,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 52,
+    "end": 55,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 56,
+    "end": 63,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Hepatitis; advised Susp Erenumab 140mg before meals 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 16,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 39,
+    "label": "DRUG"
+   },
+   {
+    "start": 40,
+    "end": 45,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 46,
+    "end": 58,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 59,
+    "end": 66,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ erenumab 70mg four times daily (10 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 11,
+    "label": "DRUG"
+   },
+   {
+    "start": 12,
+    "end": 16,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 17,
+    "end": 33,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 35,
+    "end": 42,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Dexlansoprazole 60 mg 1-1-1. Add vortioxetine 10mg three times daily for Hepatitis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 24,
+    "label": "DRUG"
+   },
+   {
+    "start": 25,
+    "end": 30,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 31,
+    "end": 36,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 54,
+    "label": "DRUG"
+   },
+   {
+    "start": 55,
+    "end": 59,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 60,
+    "end": 77,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 82,
+    "end": 91,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "sickle cell disease - Vortioxetine 20mg IV, every 8 hours for 2 weeks",
+  "entities": [
+   {
+    "start": 0,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 22,
+    "end": 34,
+    "label": "DRUG"
+   },
+   {
+    "start": 35,
+    "end": 39,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 40,
+    "end": 42,
+    "label": "ROUTE"
+   },
+   {
+    "start": 44,
+    "end": 57,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 62,
+    "end": 69,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Sciatica - Methyldopa 250mg PO, as needed for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "CONDITION"
+   },
+   {
+    "start": 11,
+    "end": 21,
+    "label": "DRUG"
+   },
+   {
+    "start": 22,
+    "end": 27,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 28,
+    "end": 30,
+    "label": "ROUTE"
+   },
+   {
+    "start": 32,
+    "end": 41,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 46,
+    "end": 53,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Herpes Zoster - Captopril 50mg SC, OD for 10 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 13,
+    "label": "CONDITION"
+   },
+   {
+    "start": 16,
+    "end": 25,
+    "label": "DRUG"
+   },
+   {
+    "start": 26,
+    "end": 30,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 31,
+    "end": 33,
+    "label": "ROUTE"
+   },
+   {
+    "start": 35,
+    "end": 37,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 49,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Lisdexamfetamine 60mg every 12 hours. Add Nitrofurantoin 100mg three times daily for amenorrhea.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 25,
+    "label": "DRUG"
+   },
+   {
+    "start": 26,
+    "end": 30,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 31,
+    "end": 45,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 51,
+    "end": 65,
+    "label": "DRUG"
+   },
+   {
+    "start": 66,
+    "end": 71,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 72,
+    "end": 89,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 94,
+    "end": 104,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "aids - lisdexamfetamine 70mg sublingual, HS for 6 months",
+  "entities": [
+   {
+    "start": 0,
+    "end": 4,
+    "label": "CONDITION"
+   },
+   {
+    "start": 7,
+    "end": 23,
+    "label": "DRUG"
+   },
+   {
+    "start": 24,
+    "end": 28,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 29,
+    "end": 39,
+    "label": "ROUTE"
+   },
+   {
+    "start": 41,
+    "end": 43,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 48,
+    "end": 56,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Ceftazidime 500mg stat. Add Atenolol 100mg before meals for Nephritic Syndrome.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "DRUG"
+   },
+   {
+    "start": 21,
+    "end": 26,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 27,
+    "end": 31,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 37,
+    "end": 45,
+    "label": "DRUG"
+   },
+   {
+    "start": 46,
+    "end": 51,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 52,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 69,
+    "end": 87,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Meperidine 100mg at bedtime (14 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 39,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "coronary artery disease - Linezolid 2g SC, once daily for 6 months",
+  "entities": [
+   {
+    "start": 0,
+    "end": 23,
+    "label": "CONDITION"
+   },
+   {
+    "start": 26,
+    "end": 35,
+    "label": "DRUG"
+   },
+   {
+    "start": 36,
+    "end": 38,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 39,
+    "end": 41,
+    "label": "ROUTE"
+   },
+   {
+    "start": 43,
+    "end": 53,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 58,
+    "end": 66,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Allergic Reaction; advised Gel imipenem 500mg in the morning 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 24,
+    "label": "CONDITION"
+   },
+   {
+    "start": 38,
+    "end": 46,
+    "label": "DRUG"
+   },
+   {
+    "start": 47,
+    "end": 52,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 53,
+    "end": 67,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 68,
+    "end": 75,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Atenolol 50mg every 12 hours. Add Perampanel 2 mg twice daily for Alopecia Areata.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 23,
+    "end": 37,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 43,
+    "end": 53,
+    "label": "DRUG"
+   },
+   {
+    "start": 54,
+    "end": 58,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 59,
+    "end": 70,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 75,
+    "end": 90,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Aids - Erenumab 70mg topical, twice daily for 7 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 4,
+    "label": "CONDITION"
+   },
+   {
+    "start": 7,
+    "end": 15,
+    "label": "DRUG"
+   },
+   {
+    "start": 16,
+    "end": 20,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 21,
+    "end": 28,
+    "label": "ROUTE"
+   },
+   {
+    "start": 30,
+    "end": 41,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 46,
+    "end": 52,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Amitriptyline 50mg at bedtime (10 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 32,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 34,
+    "end": 41,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Ampicillin 500mg four times daily (6 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 36,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 38,
+    "end": 45,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Agoraphobia; advised Inj Galcanezumab 120mg 1-1-1 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 18,
+    "label": "CONDITION"
+   },
+   {
+    "start": 32,
+    "end": 44,
+    "label": "DRUG"
+   },
+   {
+    "start": 45,
+    "end": 50,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 51,
+    "end": 56,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 57,
+    "end": 64,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Coronary Artery Disease; advised Tab erenumab 140mg in the morning 10 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 30,
+    "label": "CONDITION"
+   },
+   {
+    "start": 44,
+    "end": 52,
+    "label": "DRUG"
+   },
+   {
+    "start": 53,
+    "end": 58,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 59,
+    "end": 73,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 74,
+    "end": 81,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Meperidine 0.5g TDS (7 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 22,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 24,
+    "end": 30,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Coronary Artery Disease - Amlodipine 2.5mg subcut, BD for 3 months",
+  "entities": [
+   {
+    "start": 0,
+    "end": 23,
+    "label": "CONDITION"
+   },
+   {
+    "start": 26,
+    "end": 36,
+    "label": "DRUG"
+   },
+   {
+    "start": 37,
+    "end": 42,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 43,
+    "end": 49,
+    "label": "ROUTE"
+   },
+   {
+    "start": 51,
+    "end": 53,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 58,
+    "end": 66,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Clonidine 0.1 mg once weekly. Add Diclofenac 75mg every 8 hours for amenorrhea.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 18,
+    "label": "DRUG"
+   },
+   {
+    "start": 19,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 37,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 43,
+    "end": 53,
+    "label": "DRUG"
+   },
+   {
+    "start": 54,
+    "end": 58,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 59,
+    "end": 72,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 77,
+    "end": 87,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Sciatica; advised Cream Methyldopa 2 puffs in the morning 5 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 41,
+    "label": "DRUG"
+   },
+   {
+    "start": 42,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 64,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 65,
+    "end": 71,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Herpes Zoster - Cephalexin 250mg SC, HS for 14 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 13,
+    "label": "CONDITION"
+   },
+   {
+    "start": 16,
+    "end": 26,
+    "label": "DRUG"
+   },
+   {
+    "start": 27,
+    "end": 32,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 33,
+    "end": 35,
+    "label": "ROUTE"
+   },
+   {
+    "start": 37,
+    "end": 39,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 44,
+    "end": 51,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Crocin 2 puffs 1-1-1 (6 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 9,
+    "label": "DRUG"
+   },
+   {
+    "start": 10,
+    "end": 17,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 25,
+    "end": 32,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Clonidine 0.1mg twice daily. Add lithium 300mg BD for Amenorrhea.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 18,
+    "label": "DRUG"
+   },
+   {
+    "start": 19,
+    "end": 24,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 25,
+    "end": 36,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 42,
+    "end": 49,
+    "label": "DRUG"
+   },
+   {
+    "start": 50,
+    "end": 55,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 56,
+    "end": 58,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 63,
+    "end": 73,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Allergic; advised Tablet Tramadol 50mg once daily 14 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 32,
+    "end": 40,
+    "label": "DRUG"
+   },
+   {
+    "start": 41,
+    "end": 45,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 46,
+    "end": 56,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 57,
+    "end": 64,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Coronary Artery Disease; advised Cap lithium 600mg after meals 2 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 30,
+    "label": "CONDITION"
+   },
+   {
+    "start": 44,
+    "end": 51,
+    "label": "DRUG"
+   },
+   {
+    "start": 52,
+    "end": 57,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 58,
+    "end": 69,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 70,
+    "end": 77,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Duodenal Ulcer; advised Susp Tobramycin 80mg TDS 4 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 21,
+    "label": "CONDITION"
+   },
+   {
+    "start": 36,
+    "end": 46,
+    "label": "DRUG"
+   },
+   {
+    "start": 47,
+    "end": 51,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 52,
+    "end": 55,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 56,
+    "end": 63,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Dexlansoprazole 60mg HS (7 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 18,
+    "label": "DRUG"
+   },
+   {
+    "start": 19,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 26,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 28,
+    "end": 34,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Linezolid 600mg twice daily (3 months)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "DRUG"
+   },
+   {
+    "start": 13,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 40,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o C Diff; advised Cream Amphetamine 10ml every 6 hours 7 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "CONDITION"
+   },
+   {
+    "start": 29,
+    "end": 40,
+    "label": "DRUG"
+   },
+   {
+    "start": 41,
+    "end": 45,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 46,
+    "end": 59,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 60,
+    "end": 66,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Ranitidine 150mg HS. Add Vilazodone 2 puffs 1-0-1 for Chronic Obstructive Pulmonary Disease.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 19,
+    "label": "DRUG"
+   },
+   {
+    "start": 20,
+    "end": 25,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 26,
+    "end": 28,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 34,
+    "end": 44,
+    "label": "DRUG"
+   },
+   {
+    "start": 45,
+    "end": 52,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 53,
+    "end": 58,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 63,
+    "end": 100,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Herniated Disc - diclofenac 50mg inhaled, once daily for 3 days",
+  "entities": [
+   {
+    "start": 0,
+    "end": 14,
+    "label": "CONDITION"
+   },
+   {
+    "start": 17,
+    "end": 27,
+    "label": "DRUG"
+   },
+   {
+    "start": 28,
+    "end": 32,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 33,
+    "end": 40,
+    "label": "ROUTE"
+   },
+   {
+    "start": 42,
+    "end": 52,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 57,
+    "end": 63,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Imipenem 500mg OD. Add Diclofenac 50mg after meals for sciatica.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "DRUG"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 24,
+    "end": 26,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 42,
+    "label": "DRUG"
+   },
+   {
+    "start": 43,
+    "end": 47,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 48,
+    "end": 59,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 64,
+    "end": 72,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Lyme Disease; advised Cream Amlodipine 2.5mg stat 3 months",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 35,
+    "end": 45,
+    "label": "DRUG"
+   },
+   {
+    "start": 46,
+    "end": 51,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 52,
+    "end": 56,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 57,
+    "end": 65,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Lyme Disease; advised Susp Albuterol 1 tablet stat 3 months",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 34,
+    "end": 43,
+    "label": "DRUG"
+   },
+   {
+    "start": 44,
+    "end": 52,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 53,
+    "end": 57,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 58,
+    "end": 66,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Fluoxetine 40mg stat (3 months)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 18,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 19,
+    "end": 23,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 25,
+    "end": 33,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Alopecia Areata; advised Tablet Hydroxyzine 50 mg every 6 hours 3 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 22,
+    "label": "CONDITION"
+   },
+   {
+    "start": 39,
+    "end": 50,
+    "label": "DRUG"
+   },
+   {
+    "start": 51,
+    "end": 56,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 57,
+    "end": 70,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 71,
+    "end": 77,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Fibroids; advised Susp Hydroxyzine 2g three times daily 6 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 30,
+    "end": 41,
+    "label": "DRUG"
+   },
+   {
+    "start": 42,
+    "end": 44,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 45,
+    "end": 62,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 63,
+    "end": 70,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Amitriptyline 75mg OD (5 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 16,
+    "label": "DRUG"
+   },
+   {
+    "start": 17,
+    "end": 21,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 22,
+    "end": 24,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 26,
+    "end": 32,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Tuberculosis; advised Susp Meloxicam 7.5mg TDS 2 weeks",
+  "entities": [
+   {
+    "start": 7,
+    "end": 19,
+    "label": "CONDITION"
+   },
+   {
+    "start": 34,
+    "end": 43,
+    "label": "DRUG"
+   },
+   {
+    "start": 44,
+    "end": 49,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 50,
+    "end": 53,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 54,
+    "end": 61,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Methyldopa 500mg after meals (5 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 13,
+    "label": "DRUG"
+   },
+   {
+    "start": 14,
+    "end": 19,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 20,
+    "end": 31,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 33,
+    "end": 39,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Imipenem 250mg before meals (6 weeks)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 11,
+    "label": "DRUG"
+   },
+   {
+    "start": 12,
+    "end": 17,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 18,
+    "end": 30,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 32,
+    "end": 39,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Continue Albuterol 90mcg_inhaler before meals. Add Sumatriptan 1g BD for Encephalitis.",
+  "entities": [
+   {
+    "start": 9,
+    "end": 18,
+    "label": "DRUG"
+   },
+   {
+    "start": 19,
+    "end": 32,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 33,
+    "end": 45,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 51,
+    "end": 62,
+    "label": "DRUG"
+   },
+   {
+    "start": 63,
+    "end": 65,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 66,
+    "end": 68,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 73,
+    "end": 85,
+    "label": "CONDITION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Fibroids; advised Cream Meloxicam 7.5mg SOS 7 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "CONDITION"
+   },
+   {
+    "start": 31,
+    "end": 40,
+    "label": "DRUG"
+   },
+   {
+    "start": 41,
+    "end": 46,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 47,
+    "end": 50,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 51,
+    "end": 57,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "R/ Crocin 650mg after meals (3 days)",
+  "entities": [
+   {
+    "start": 3,
+    "end": 9,
+    "label": "DRUG"
+   },
+   {
+    "start": 10,
+    "end": 15,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 16,
+    "end": 27,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 29,
+    "end": 35,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Parkinson's Disease; advised Gel Atenolol 25mg in the morning 6 months",
+  "entities": [
+   {
+    "start": 7,
+    "end": 26,
+    "label": "CONDITION"
+   },
+   {
+    "start": 40,
+    "end": 48,
+    "label": "DRUG"
+   },
+   {
+    "start": 49,
+    "end": 53,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 54,
+    "end": 68,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 69,
+    "end": 77,
+    "label": "DURATION"
+   }
+  ]
+ },
+ {
+  "text": "Pt c/o Amenorrhea; advised Capsule Clonidine 0.3mg SOS 7 days",
+  "entities": [
+   {
+    "start": 7,
+    "end": 17,
+    "label": "CONDITION"
+   },
+   {
+    "start": 35,
+    "end": 44,
+    "label": "DRUG"
+   },
+   {
+    "start": 45,
+    "end": 50,
+    "label": "DOSAGE"
+   },
+   {
+    "start": 51,
+    "end": 54,
+    "label": "FREQUENCY"
+   },
+   {
+    "start": 55,
+    "end": 61,
+    "label": "DURATION"
+   }
+  ]
+ }
+]
