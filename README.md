@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 MedScan-AI
 
 **Clinical Document Intelligence Platform** — A professional-grade healthcare AI system that extracts, validates, and analyzes medical information from clinical documents.
@@ -287,3 +288,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 **Built with ❤️ using Streamlit, spaCy, Tesseract, and FHIR R4**
+=======
+# MedScan-AI
+>>>>>>> 04933562cf884bf0124e47d5a8e0caf242367158
